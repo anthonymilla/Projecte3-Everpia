@@ -31,4 +31,4 @@ Cada error és una lliçó, cada solució un petit triomf. Aquí no hi ha profes
 Sí, serà intens. Però també una gran oportunitat per demostrar que **pots sobreviure en qualsevol empresa IT**.
 
 ## Tasques
-- [Tasca2](/Tasca02)
+- [Tasca1](/Tasca01)
