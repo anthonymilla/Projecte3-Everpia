@@ -45,3 +45,6 @@ Un gestor de contrasenyes ajuda a mitigar aquests riscos ja què:
 
 ## 4. Recomanació  
 Per al personal tècnic de l’empresa, es recomana **Bitwarden** com a gestor de contrasenyes principal. La seva capacitat de sincronització, el model de seguretat robust i la facilitat d’ús des de múltiples dispositius el fan ideal per a entorns professionals amb mobilitat i col·laboració. Aleshores KeePassXC pot ser útil com a complement en entorns molt sensibles o desconnectats, però no és tan pràctic per a l’ús diari en equip.
+
+
+[Anar a l'enunciat](../Tasca01/README.md) [Anar a la pàgina inicial](../README.md)
