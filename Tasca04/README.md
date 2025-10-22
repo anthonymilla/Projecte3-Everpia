@@ -9,4 +9,10 @@ Actualment, cada servei intern (servidor de fitxers, wiki de documentació, etc.
 El CEO d’Innovatech ha contactat amb EverPia per tal d’implementar una solució d’autenticació centralitzada. La solució proposada és utilitzar OpenLDAP (Lightweight Directory Access Protocol) per ser una solució robusta i de codi obert, que s’alinea amb l’esperit d’Innovatech, ja que tots els ordinadors de l’empresa usen GNU-Linux.
 La vostra missió serà implementar el servei OpenLDAP en un servidor Linux. Això implica instal·lar el servei, configurar el domini base, crear la jerarquia d'unitats organitzatives i, finalment, integrar usuaris i grups que posteriorment s'utilitzaran per donar accés a altres serveis de xarxa. A més, configurareu un equip client per tal que utilitzi el directori per autenticar els usuaris.
 
-S’ha redactat un document on s’especifica clarament la feina que s’ha de desenvolupar, el teniu disponible en el plec de condicions tècniques (també el podeu trobar al Moodle de l’assignatura).
+S’ha redactat un document on s’especifica clarament la feina que s’ha de desenvolupar, el teniu disponible en el [plec de condicions tècniques](https://docs.google.com/document/d/1BMT080sbzxNOQ51nxsDch_-9LA1VKP5gC6OWB6l86_E/edit?tab=t.0) (també el podeu trobar al Moodle de l’assignatura).
+
+## Material de classe (disponible al Moodle)
+- [UD04.AA1 Serveis de Directori](https://docs.google.com/presentation/d/1x5i7JaRtzXtdNADtBevuX1HIMJkICo4O/edit?slide=id.p1#slide=id.p1)
+- [UD04.AA2 Instal·lació OpenLDAP](https://docs.google.com/presentation/d/1k3qzGN8Zp8jQYH6sqNJeEfj5os0ziksD/edit?slide=id.p1#slide=id.p1)
+- [UD04.AA3 Configuració del directori](https://docs.google.com/presentation/d/1y4Av3fDSca9K3Oij-fQKJ6GsoaoKc0S-/edit?slide=id.p1#slide=id.p1)
+- [UD04.AA5 Agregar client al directori](https://docs.google.com/presentation/d/1vlN5itS7RyiTEq4Do6xnBe-bPzMdl5nt/edit?slide=id.p1#slide=id.p1)
