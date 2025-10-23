@@ -4,7 +4,7 @@ Utilitzant l'eina que heu seleccionat a la Fase 1 (Bitwarden, KeePassX, o simila
 
 La guia ha de cobrir els següents punts obligatoris:
 
-1. Instal·lació i Configuració Inicial: Descàrrega, instal·lació i creació de la BBDD principal o compte mestre.
+## 1. Instal·lació i Configuració Inicial: Descàrrega, instal·lació i creació de la BBDD principal o compte mestre.
 
 Comencem instal·lant la nostra eina, Bitwarden en aquest cas.
 ![Instal·lant la nostra eina, Bitwarden](img/Imatge01.png)
@@ -30,7 +30,7 @@ Tenim l'opció de posar l'extensió, que sempre va bé per poder emplenar autom�
 Ara ja tindríem el nostre compte nou creat i estaríem dins.
 ![Compte creat](img/Imatge08.png)
 
-2. Generació de Contrasenyes Segures: Explicació de com utilitzar el generador de contrasenyes de l'eina (paràmetres, longitud, caràcters especials).
+## 2. Generació de Contrasenyes Segures: Explicació de com utilitzar el generador de contrasenyes de l'eina (paràmetres, longitud, caràcters especials).
 ## Generador de contrasenyes segures (Bitwarden)
 1. Obrim l’eina, generador contrasenyes.
 2. Triem la longitud en aquest cas 14 caràcters que són els recomanats.
@@ -42,7 +42,7 @@ Ara ja tindríem el nostre compte nou creat i estaríem dins.
 ![Generador](img/Imatge10.png)
 ![Generador](img/Imatge11.png)
 
-3. Exemples d'Ús i Emplenament Automàtic:
+## 3. Exemples d'Ús i Emplenament Automàtic:
 - Com desar una credencial d'un compte de correu electrònic.
 - Com desar una credencial d'una aplicació o servei web.
 - Com fer servir l’extensió del navegador per emplenar automàticament les dades.                                    
@@ -58,7 +58,7 @@ Més abaix, opcions d’emplenament automàtic posem el lloc web per desar una c
 - Desem les credencials quan accedim a una web.
 - Tornem a la web: Bitwarden les emplena automàticament.
 
-4. Gestió de Còpies de Seguretat (Backup):
+## 4. Gestió de Còpies de Seguretat (Backup):
 - Explicació detallada de com fer una còpia de seguretat de l'arxiu de contrasenyes (KDBX en KeePass o Exportació en Bitwarden).
 - Recomanació de la millor pràctica per emmagatzemar aquesta còpia de seguretat de forma segura (clau USB xifrada o emmagatzematge xifrat al núvol).                                                                  
 Anem a eines i exporta la caixa forta.
