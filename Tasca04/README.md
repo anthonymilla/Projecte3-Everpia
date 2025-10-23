@@ -18,5 +18,5 @@ S’ha redactat un document on s’especifica clarament la feina que s’ha de d
 - [UD04.AA5 Agregar client al directori](https://docs.google.com/presentation/d/1vlN5itS7RyiTEq4Do6xnBe-bPzMdl5nt/edit?slide=id.p1#slide=id.p1)
 
 
-[Anar a la pàgina inicial](../README.md)
+[Anar a la pàgina inicial](../README.md)    
 [Anar a la  solució](../Tasca01/solucio.md)
