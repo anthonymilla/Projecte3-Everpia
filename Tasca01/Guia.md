@@ -67,3 +67,6 @@ Li donem a confirmar el format, posem la contrasenya mestra i exportem la caixa 
 ![Exportant la caixa forta](img/Imatge16.png)                                                       
 I ja la tindríem baixada i l’emmagatzem.                                              
 ![Emmagatzem la caixa forta](img/Imatge17.png)
+
+[Anar a l'enunciat](../Tasca01/README.md)  
+[Anar a la pàgina inicial](../README.md)
