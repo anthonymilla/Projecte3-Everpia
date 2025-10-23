@@ -77,5 +77,5 @@ Dins el repositori del projecte-3 heu de crear una carpeta anomenada **tasca01**
 - [INCIBE: Gestores de contraseñas: qué son y cómo pueden mejorar la seguridad de las empresas](https://www.incibe.es/protege-tu-empresa/blog/gestores-contrasenas)
 
 [Anar a la primera solució](../Tasca01/Informe.md)                                        
-[Anar a la primera solució](../Tasca01/Guia.md)                                                 
+[Anar a la segona solució](../Tasca01/Guia.md)                                                 
 [Anar a la pàgina inicial](../README.md)
