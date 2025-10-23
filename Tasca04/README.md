@@ -19,3 +19,4 @@ S’ha redactat un document on s’especifica clarament la feina que s’ha de d
 
 
 [Anar a la pàgina inicial](../README.md)
+[Anar a la  solució](../Tasca01/solucio.md)
