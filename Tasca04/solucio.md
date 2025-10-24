@@ -5,25 +5,25 @@
 
 - Configurem la màquina Server (Server Hostname), posem la següent comanda i després posem com a nom del host: server i com a nom del host complet: server.innovatechXX.test (XX, número de llista, 21).
 
-![Configurant màquina virtual, adaptador 1 en NAT](img/Imatge01.png)
+![Configurant màquina Server, posem el nom del host: server i com a nom del host complet: server.innovatechXX.test (XX, número de llista, 21).](img/Imatge01.png)
 
-![Instal·lant la nostra eina, Bitwarden](img/Imatge02.png)
+![Posant Server Hostname](img/Imatge02.png)
 
 - Fem la comprovació amb: hostname i hostname -f.
 
-![Instal·lant la nostra eina, Bitwarden](img/Imatge03.png)
+![Comprovació Server Hostname](img/Imatge03.png)
 
 - Adaptador 1 de xarxa en NAT, el posem/deixem en NAT.
 
-![Instal·lant la nostra eina, Bitwarden](img/Imatge04.png)
+![Adaptador 1 de xarxa en NAT, el posem/deixem en NAT.](img/Imatge04.png)
 
 - Posem l'adaptador 2 de xarxa en Adaptador de només amfitrió, per a la comunicació privada amb el Client virtual  i la màquina física.
 
-![Instal·lant la nostra eina, Bitwarden](img/Imatge05.png)
+![Posem l'adaptador 2 de xarxa en Adaptador de només amfitrió](img/Imatge05.png)
 
 - Escrivim: ip a, per veure les IP’s.
 
-![Instal·lant la nostra eina, Bitwarden](img/Imatge06.png)
+![- Escrivim: ip a, per veure les IP’s.](img/Imatge06.png)
 
 | 2. Tasques d'Implementació i Configuració del Servidor LDAP |
 |----------------------------------------|
@@ -33,55 +33,55 @@
 
 - Instal·lem el servei OpenLDAP amb la següent comanda:
 
-![Instal·lant la nostra eina, Bitwarden](img/Imatge07.png)
+![Instal·lant el servei OpenLDAP](img/Imatge07.png)
 
 - Contrasenya: usuari. Continuem.
 
-![Instal·lant la nostra eina, Bitwarden](img/Imatge08.png)
+![Posant la contrasenya](img/Imatge08.png)
 
 - Fem la comprovació, amb status.
 
-![Instal·lant la nostra eina, Bitwarden](img/Imatge10.png)
+![Posant la comanda status per fer la comprovació](img/Imatge10.png)
 
 - Posem la següent comanda per veure les dades del directori LDAP.
 
-![Instal·lant la nostra eina, Bitwarden](img/Imatge11.png)
+![Comanda per veure les dades del directori LDAP.](img/Imatge11.png)
 
 - Configuració de la base de dades, reconfigurem el paquet.
 
-![Instal·lant la nostra eina, Bitwarden](img/Imatge09.png)
+![Configuració de la base de dades, reconfigurem el paquet.](img/Imatge09.png)
 
 - Ens diu que no es crearà la configuració ni la base de dades inicial si habilitem aquesta opció, li diem que no volem ometre la configuració del servidor OpenLDAP.
 
-![Instal·lant la nostra eina, Bitwarden](img/Imatge12.png)
+![Configuració de slapd](img/Imatge12.png)
 
 - Posem de nom de domini DNS: innovatech21.test 
 
-![Instal·lant la nostra eina, Bitwarden](img/Imatge13.png)
+![Posant el nom de domini DNS](img/Imatge13.png)
 
 - Nom de la organització: innovatech21.test
 
-![Instal·lant la nostra eina, Bitwarden](img/Imatge14.png)
+![Nom de la organització](img/Imatge14.png)
 
 - Contrasenya de l’administrador, p@ssw0rd
 
-![Instal·lant la nostra eina, Bitwarden](img/Imatge15.png)
+![Contrasenya de l’administrador](img/Imatge15.png)
 
-![Instal·lant la nostra eina, Bitwarden](img/Imatge16.png)
+![Contrasenya de l’administrador](img/Imatge16.png)
 
 - Indiquem que quan s’elimini el paquet, s’esborri la BD creada.
 
-![Instal·lant la nostra eina, Bitwarden](img/Imatge17.png)
+![Indicant que quan s’elimini el paquet, s’esborri la BD creada.](img/Imatge17.png)
 
 - Movem la informació del directori que hi ha a una carpeta de backup.
 
-![Instal·lant la nostra eina, Bitwarden](img/Imatge18.png)
+![Movem la informació del directori que hi ha a una carpeta de backup.](img/Imatge18.png)
 
-![Instal·lant la nostra eina, Bitwarden](img/Imatge19.png)
+![Configuració de slapd](img/Imatge19.png)
 
 - Fem la comprovació de que s’ha modificat la informació del directori.
 
-![Instal·lant la nostra eina, Bitwarden](img/Imatge20.png)
+![Fem la comprovació de que s’ha modificat la informació del directori.](img/Imatge20.png)
 
 
 
