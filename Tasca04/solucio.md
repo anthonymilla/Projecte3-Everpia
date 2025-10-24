@@ -53,11 +53,7 @@
 
 - Ens diu que no es crearà la configuració ni la base de dades inicial si habilitem aquesta opció, li diem que no volem ometre la configuració del servidor OpenLDAP.
 
-![Instal·lant la nostra eina, Bitwarden](img/Imatge12.png)
 
-- Deixem el nom de domini DNS com a predeterminat.
-
-![Instal·lant la nostra eina, Bitwarden](img/Imatge13.png)
 
 
 
