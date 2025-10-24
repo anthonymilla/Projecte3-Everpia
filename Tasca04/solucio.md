@@ -53,6 +53,36 @@
 
 - Ens diu que no es crearà la configuració ni la base de dades inicial si habilitem aquesta opció, li diem que no volem ometre la configuració del servidor OpenLDAP.
 
+![Instal·lant la nostra eina, Bitwarden](img/Imatge12.png)
+
+- Posem de nom de domini DNS: innovatech21.test 
+
+![Instal·lant la nostra eina, Bitwarden](img/Imatge13.png)
+
+- Nom de la organització: innovatech21.test
+
+![Instal·lant la nostra eina, Bitwarden](img/Imatge14.png)
+
+- Contrasenya de l’administrador, p@ssw0rd
+
+![Instal·lant la nostra eina, Bitwarden](img/Imatge15.png)
+
+![Instal·lant la nostra eina, Bitwarden](img/Imatge16.png)
+
+- Indiquem que quan s’elimini el paquet, s’esborri la BD creada.
+
+![Instal·lant la nostra eina, Bitwarden](img/Imatge17.png)
+
+- Movem la informació del directori que hi ha a una carpeta de backup.
+
+![Instal·lant la nostra eina, Bitwarden](img/Imatge18.png)
+
+![Instal·lant la nostra eina, Bitwarden](img/Imatge19.png)
+
+- Fem la comprovació de que s’ha modificat la informació del directori.
+
+![Instal·lant la nostra eina, Bitwarden](img/Imatge20.png)
+
 
 
 
