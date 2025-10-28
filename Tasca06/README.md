@@ -53,5 +53,6 @@ Escriure `server IP` i escriure la IP del primer servidor de noms del domini `te
 
 Finalment es vol comprovar el funcionament de la resolució local, útil per entorns de xarxa local on no es disposa de servidor de noms propi i que evita haver d’accedir a equips o recursos per la seva IP.
 
-[Anar a la  solució](../Tasca06/guia.md)  
+[Anar al vídeo](../Tasca06/video.md)  
+[Anar a la  guia](../Tasca06/guia.md)  
 [Anar a la pàgina inicial](../README.md)   
