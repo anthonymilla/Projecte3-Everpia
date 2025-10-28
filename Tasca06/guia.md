@@ -50,6 +50,10 @@ Registres obtinguts:  
 
 ![Posant Server Hostname](img/Imatge09.png)
 
+- La resposta no és autoritativa perquè el servidor consultat no administra la zona tecnocampus.cat i està retornant dades que té guardades en memòria cau, no dades originals de la font autoritativa.
+
+![Posant Server Hostname](img/Imatge10.png)
+
 
 
 [Anar a l'enunciat](../Tasca06/README.md)  
