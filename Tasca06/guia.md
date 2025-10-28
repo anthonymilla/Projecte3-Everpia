@@ -50,11 +50,18 @@ Registres obtinguts:  
 
 ![Posant Server Hostname](img/Imatge09.png)
 
-- La resposta no és autoritativa perquè el servidor consultat no administra la zona tecnocampus.cat i està retornant dades que té guardades en memòria cau, no dades originals de la font autoritativa.
+## Per què indica que la resposta és no autoritativa?
+La resposta no és autoritativa perquè el servidor consultat no administra la zona tecnocampus.cat i està retornant dades que té guardades en memòria cau, no dades originals de la font autoritativa.
 
 ![Posant Server Hostname](img/Imatge10.png)
 
+## Quines diferències s’observen a la resposta obtinguda amb la comanda 1?
 
+
+
+
+## Resolucions locals
+Finalment es vol comprovar el funcionament de la resolució local, útil per entorns de xarxa local on no es disposa de servidor de noms propi i que evita haver d’accedir a equips o recursos per la seva IP.
 
 [Anar a l'enunciat](../Tasca06/README.md)  
 [Anar a la pàgina inicial](../README.md)
