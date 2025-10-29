@@ -23,11 +23,11 @@
 
 - Posem la següent comanda per habilitar el segon adaptador, apliquem els canvis i guardem els canvis.
 
-![Posem la següent comanda per habilitar el segon adaptador, apliquem els canvis i guardem els canvis.](img/Imatge511.png)
+![Posem la següent comanda per habilitar el segon adaptador, apliquem els canvis i guardem els canvis.](img/Imatgee5.png)
 
-![Posem la següent comanda per habilitar el segon adaptador, apliquem els canvis i guardem els canvis.](img/Imatge512.png)
+![Posem la següent comanda per habilitar el segon adaptador, apliquem els canvis i guardem els canvis.](img/Imatgeee5.png)
 
-![Posem la següent comanda per habilitar el segon adaptador, apliquem els canvis i guardem els canvis.](img/Imatge513.png)
+![Posem la següent comanda per habilitar el segon adaptador, apliquem els canvis i guardem els canvis.](img/Imatgeeee5.png)
 
 - Verifiquem, escrivim: ip a, per veure les IP’s.
 
