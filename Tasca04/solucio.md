@@ -21,9 +21,17 @@
 
 ![Posem l'adaptador 2 de xarxa en Adaptador de només amfitrió](img/Imatge05.png)
 
-- Escrivim: ip a, per veure les IP’s.
+- Posem la següent comanda per habilitar el segon adaptador, apliquem els canvis i guardem els canvis.
 
-![- Escrivim: ip a, per veure les IP’s.](img/Imatge06.png)
+![Posem la següent comanda per habilitar el segon adaptador, apliquem els canvis i guardem els canvis.](img/Imatge05_1.png)
+
+![Posem la següent comanda per habilitar el segon adaptador, apliquem els canvis i guardem els canvis.](img/Imatge05_2.png)
+
+![Posem la següent comanda per habilitar el segon adaptador, apliquem els canvis i guardem els canvis.](img/Imatge05_3.png)
+
+- Verifiquem, escrivim: ip a, per veure les IP’s.
+
+![Verifiquem, escrivim: ip a, per veure les IP’s.](img/Imatge06.png)
 
 | 2. Tasques d'Implementació i Configuració del Servidor LDAP |
 |----------------------------------------|
@@ -82,6 +90,29 @@
 - Fem la comprovació de que s’ha modificat la informació del directori.
 
 ![Fem la comprovació de que s’ha modificat la informació del directori.](img/Imatge20.png)
+
+- Posem la següent comanda i creem dues OUs: users i groups mitjançant un fitxer .ldif.
+
+![Posem la següent comanda i creem dues OUs: users i groups mitjançant un fitxer .ldif.](img/Imatge21.png)
+
+![Posem la següent comanda i creem dues OUs: users i groups mitjançant un fitxer .ldif.](img/Imatge22.png)
+
+- Seguidament posem la següent comanda, per agregar l'arxiu al directori.
+
+![Posem la següent comanda, per agregar l'arxiu al directori.](img/Imatge23.png)
+
+- Fem una consulta amb la comanda ldapsearch mostrant totes les OUs creades al directori.
+
+![Fem una consulta amb la comanda ldapsearch mostrant totes les OUs creades al directori.](img/Imatge24.png)
+
+| 3.2. Gestió i Administració (LAM) |
+|----------------------------------------|
+
+- Instal·lem el Gestor d'Usuaris LDAP (LAM) amb la següent comanda, això ja descarregarà totes les dependències necessàries.
+
+![Instal·lem el Gestor d'Usuaris LDAP (LAM) amb la següent comanda, això ja descarregarà totes les dependències necessàries.](img/Imatge25.png)
+
+![Instal·lem el Gestor d'Usuaris LDAP (LAM) amb la següent comanda, això ja descarregarà totes les dependències necessàries.](img/Imatge26.png)
 
 
 
