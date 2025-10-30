@@ -6,14 +6,19 @@ Posem el 2 adaptador en adaptador pont, després dins de la màquina, anem a con
 
 ![Posant Server Hostname](img/Imatge01.png)
 
-## Identifica la IP de resposta, el valor TTL i el servidor que ha respost a la consulta.
+## A. Diagnosi Avançada amb dig (Linux / macOS)
+## Comanda 1: Consulta Bàsica de Registre A
+## Executa dig xtec.cat A
+## Anàlisi: Identifica la IP de resposta, el valor TTL i el servidor que ha respost a la consulta.
 - **IP de resposta:** 83.247.151.214  
 - **Valor TTL:** 243 segons  
 - **Servidor que ha respost:** 127.0.0.53 (resolent a través de UDP)
 
 ![Posant Server Hostname](img/Imatge03.png)
 
-## Quins són els servidors de noms autoritatius per a aquest domini?
+## Comanda 2: Consulta de Servidors de Noms (NS)
+## Executa dig tecnocampus.cat NS
+## Anàlisi: Quins són els servidors de noms autoritatius per a aquest domini?
 Els servidors de noms autoritatius per al domini tecnocampus.cat són:
 - ns-1071.awsdns-05.org
 - ns-130.awsdns-16.com
@@ -24,7 +29,9 @@ Els servidors de noms autoritatius per al domini tecnocampus.cat són:
 
 ![Posant Server Hostname](img/Imatge05.png)
 
-## Quina és la informació del correu de l'administrador i el número de sèrie del domini?
+## Comanda 3: Consulta Detallada SOA
+## Executa dig escolapia.cat SOA
+## Anàlisi: Quina és la informació del correu de l'administrador i el número de sèrie del domini?
 El correu de l’administrador mostra qui és el responsable tècnic del domini.     
 **Correu de l’administrador:** root@dns1.nominalia.com    
            **Número de sèrie:** 1761028965
@@ -33,7 +40,9 @@ El correu de l’administrador mostra qui és el responsable tècnic del domini.
 
 ![Posant Server Hostname](img/Imatge07.png)
 
-## Quina informació sobre els registres s’obté?
+## Comanda 4: Consulta resolució inversa
+## Executa comanda dig -x 147.83.2.135
+## Anàlisi: Quina informació sobre els registres s’obté?
 S’obtenen diversos registres PTR associats a la IP 147.83.2.135.
 Que aquests apunten a dominis de la UPC (Universitat Politècnica de Catalunya).
 Registres obtinguts:       
@@ -50,18 +59,24 @@ Registres obtinguts:  
 
 ![Posant Server Hostname](img/Imatge09.png)
 
-## Per què indica que la resposta és no autoritativa?
+## Comprovació de Resolució amb nslookup (Multiplataforma)
+## Comanda 1: Consulta Bàsica no Autoritativa
+## Seleccionar type=A i com a domini de consulta tecnocampus.cat
+## Anàlisi: Per què indica que la resposta és no autoritativa?
 La resposta no és autoritativa perquè el servidor consultat no administra la zona tecnocampus.cat i està retornant dades que té guardades en memòria cau, no dades originals de la font autoritativa.
 
 ![Posant Server Hostname](img/Imatge10.png)
 
-## Quines diferències s’observen a la resposta obtinguda amb la comanda 1?
+## Comanda 2: Consultes autoritatives
+## Escriure server IP i escriure la IP del primer servidor de noms del domini tecnocampus.cat que s’ha obtingut d’una consulta anterior. A continuació, indiqueu que voleu consultar registres de tipus A i del domini tecnocampus.cat
+## Anàlisi: Quines diferències s’observen a la resposta obtinguda amb la comanda 1?
 
 
 
 
 ## Resolucions locals
 Finalment es vol comprovar el funcionament de la resolució local, útil per entorns de xarxa local on no es disposa de servidor de noms propi i que evita haver d’accedir a equips o recursos per la seva IP.
+
 
 [Anar a l'enunciat](../Tasca06/README.md)  
 [Anar a la pàgina inicial](../README.md)
