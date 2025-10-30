@@ -126,7 +126,7 @@ Després Edit server profiles.
 
 ![Hola](img/Imatge29.png)
 
-Posem la contrasenya, lam i entrem.
+Posem la contrasenya; lam i entrem.
 
 Manage server profiles: amb aquest pots administrar els diferents perfils, contrasenya..
 
