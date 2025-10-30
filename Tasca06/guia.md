@@ -6,10 +6,11 @@ Posem el 2 adaptador en adaptador pont, després dins de la màquina, anem a con
 
 ![Posem el 2 adaptador en adaptador pont, després dins de la màquina, anem a configuració, xarxa, Ethernet (enp0s8), afegim, posem la direcció, màscara de xarxa i guardem.](img/Imatge01.png)
 
-## A. Diagnosi Avançada amb dig (Linux / macOS)
+| A. Diagnosi Avançada amb dig (Linux / macOS) |
+|----------------------------------------|
 ## Comanda 1: Consulta Bàsica de Registre A
-## Executa dig xtec.cat A
-## Anàlisi: Identifica la IP de resposta, el valor TTL i el servidor que ha respost a la consulta.
+**Executa dig xtec.cat A**
+**Anàlisi: Identifica la IP de resposta, el valor TTL i el servidor que ha respost a la consulta.**
 - **IP de resposta:** 83.247.151.214  
 - **Valor TTL:** 243 segons  
 - **Servidor que ha respost:** 127.0.0.53 (resolent a través de UDP)
@@ -17,8 +18,8 @@ Posem el 2 adaptador en adaptador pont, després dins de la màquina, anem a con
 ![Consulta Bàsica de Registre A](img/Imatge03.png)
 
 ## Comanda 2: Consulta de Servidors de Noms (NS)
-## Executa dig tecnocampus.cat NS
-## Anàlisi: Quins són els servidors de noms autoritatius per a aquest domini?
+**Executa dig tecnocampus.cat NS**
+**Anàlisi: Quins són els servidors de noms autoritatius per a aquest domini?**
 Els servidors de noms autoritatius per al domini tecnocampus.cat són:
 - ns-1071.awsdns-05.org
 - ns-130.awsdns-16.com
@@ -30,8 +31,8 @@ Els servidors de noms autoritatius per al domini tecnocampus.cat són:
 ![Consulta de Servidors de Noms (NS)](img/Imatge05.png)
 
 ## Comanda 3: Consulta Detallada SOA
-## Executa dig escolapia.cat SOA
-## Anàlisi: Quina és la informació del correu de l'administrador i el número de sèrie del domini?
+**Executa dig escolapia.cat SOA**
+**Anàlisi: Quina és la informació del correu de l'administrador i el número de sèrie del domini?**
 El correu de l’administrador mostra qui és el responsable tècnic del domini.     
 **Correu de l’administrador:** root@dns1.nominalia.com    
            **Número de sèrie:** 1761028965
@@ -41,8 +42,8 @@ El correu de l’administrador mostra qui és el responsable tècnic del domini.
 ![Consulta Detallada SOA](img/Imatge07.png)
 
 ## Comanda 4: Consulta resolució inversa
-## Executa comanda dig -x 147.83.2.135
-## Anàlisi: Quina informació sobre els registres s’obté?
+**Executa comanda dig -x 147.83.2.135**
+**Anàlisi: Quina informació sobre els registres s’obté?**
 S’obtenen diversos registres PTR associats a la IP 147.83.2.135.
 Que aquests apunten a dominis de la UPC (Universitat Politècnica de Catalunya).
 Registres obtinguts:       
@@ -59,25 +60,27 @@ Registres obtinguts:  
 
 ![Consulta resolució inversa](img/Imatge09.png)
 
-## Comprovació de Resolució amb nslookup (Multiplataforma)
+| Comprovació de Resolució amb nslookup (Multiplataforma) |
+|----------------------------------------|
 ## Comanda 1: Consulta Bàsica no Autoritativa
-## Seleccionar type=A i com a domini de consulta tecnocampus.cat
-## Anàlisi: Per què indica que la resposta és no autoritativa?
+**Seleccionar type=A i com a domini de consulta tecnocampus.cat**
+**Anàlisi: Per què indica que la resposta és no autoritativa?**
 La resposta no és autoritativa perquè el servidor consultat no administra la zona tecnocampus.cat i està retornant dades que té guardades en memòria cau, no dades originals de la font autoritativa.
 
 ![Posant Server Hostname](img/Imatge10.png)
 
 ## Comanda 2: Consultes autoritatives
-## Escriure server IP i escriure la IP del primer servidor de noms del domini tecnocampus.cat que s’ha obtingut d’una consulta anterior. A continuació, indiqueu que voleu consultar registres de tipus A i del domini tecnocampus.cat
-## Anàlisi: Quines diferències s’observen a la resposta obtinguda amb la comanda 1?
+**Escriure server IP i escriure la IP del primer servidor de noms del domini tecnocampus.cat que s’ha obtingut d’una consulta anterior. A continuació, indiqueu que voleu consultar registres de tipus A i del domini tecnocampus.cat**
+**Anàlisi: Quines diferències s’observen a la resposta obtinguda amb la comanda 1?**
 Doncs que la primera com he comentat no és autoritativa i la segona si.
 
 ![Posant Server Hostname](img/Imatge11.png)
 ![Posant Server Hostname](img/Imatge12.png)
 
-## Resolucions locals
-**Finalment es vol comprovar el funcionament de la resolució local, útil per entorns de xarxa local on no es disposa de servidor de noms propi i que evita haver d’accedir a equips o recursos per la seva IP.**    
-- És el Nil. Per finalitzar comprovem el funcionament de la resolució local amb la següent comanda, aquesta va bé per entorns de xarxa local on no es disposa de servidor de noms propi i que així evita haver d'accedir a equips o recursos per la seva IP.     
+| Resolucions locals |
+|----------------------------------------|
+## Finalment es vol comprovar el funcionament de la resolució local, útil per entorns de xarxa local on no es disposa de servidor de noms propi i que evita haver d’accedir a equips o recursos per la seva IP.**    
+És el Nil. Per finalitzar comprovem el funcionament de la resolució local amb la següent comanda, aquesta va bé per entorns de xarxa local on no es disposa de servidor de noms propi i que així evita haver d'accedir a equips o recursos per la seva IP.     
 
 ![Posant Server Hostname](img/Imatge13.png)
 
