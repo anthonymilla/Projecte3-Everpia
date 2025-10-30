@@ -122,30 +122,31 @@ Dins, cliquem en LAM configuration.
 
 ![Hola](img/Imatge28.png)
 
- Dins, cliclem en LAM configuration.
+Després Edit server profiles.
 
 ![Hola](img/Imatge29.png)
 
-Després Edit server profiles.
+Posem la contrasenya, lam i entrem.
+
+Manage server profiles: amb aquest pots administrar els diferents perfils, contrasenya..
 
 ![Hola](img/Imatge30.png)
 
-Posem la contrasenya, lam i entrem.
-Manage server profiles: amb aquest pots administrar els diferents perfils, contrasenya..
+Ara anem a opcions generals i configurem, compte, admin, idioma..
 
 ![Hola](img/Imatge31.png)
 
-
-
 ![Hola](img/Imatge32.png)
 
-
+Anem a Account Types definim els DN dels usuaris i grups, també incloem una OU pels usuaris i una altre pels grups i es pot afegir els tipus d'objectes del directori, són usuaris i grups per defecte.
 
 ![Hola](img/Imatge33.png)
 
-
+Accedim al directori.
 
 ![Hola](img/Imatge34.png)
+
+
 
 
 
