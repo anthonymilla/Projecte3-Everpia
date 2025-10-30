@@ -116,6 +116,36 @@ Instal·lem el Gestor d'Usuaris LDAP (LAM) amb la següent comanda, això ja des
 
 
 
+![Hola](img/Imatge27.png)
+
+
+
+![Hola](img/Imatge28.png)
+
+
+
+![Hola](img/Imatge29.png)
+
+
+
+![Hola](img/Imatge30.png)
+
+
+
+![Hola](img/Imatge31.png)
+
+
+
+![Hola](img/Imatge32.png)
+
+
+
+![Hola](img/Imatge33.png)
+
+
+
+![Hola](img/Imatge34.png)
+
 
 
 [Anar a l'enunciat](../Tasca04/README.md)  
