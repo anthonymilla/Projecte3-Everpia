@@ -76,8 +76,8 @@ Doncs que la primera com he comentat no és autoritativa i la segona si.
 ![Posant Server Hostname](img/Imatge12.png)
 
 ## Resolucions locals
-**Finalment es vol comprovar el funcionament de la resolució local, útil per entorns de xarxa local on no es disposa de servidor de noms propi i que evita haver d’accedir a equips o recursos per la seva IP.**
-És el Nil. Per finalitzar comprovem el funcionament de la resolució local amb la següent comanda, aquesta va bé per entorns de xarxa local on no es disposa de servidor de noms propi i que així evita haver d'accedir a equips o recursos per la seva IP.
+**Finalment es vol comprovar el funcionament de la resolució local, útil per entorns de xarxa local on no es disposa de servidor de noms propi i que evita haver d’accedir a equips o recursos per la seva IP.**    
+     És el Nil. Per finalitzar comprovem el funcionament de la resolució local amb la següent comanda, aquesta va bé per entorns de xarxa local on no es disposa de servidor de noms propi i que així evita haver d'accedir a equips o recursos per la seva IP.
 ![Posant Server Hostname](img/Imatge13.png)
 
 [Anar a l'enunciat](../Tasca06/README.md)  
