@@ -114,23 +114,24 @@ Instal·lem el Gestor d'Usuaris LDAP (LAM) amb la següent comanda, això ja des
 
 ![Instal·lem el Gestor d'Usuaris LDAP (LAM) amb la següent comanda, això ja descarregarà totes les dependències necessàries.](img/Imatge26.png)
 
-
+Posem ip a, per veure l'ip i després la posem al buscador agregant al final /lam i entrarem a la web.
 
 ![Hola](img/Imatge27.png)
 
-
+Dins, cliquem en LAM configuration.
 
 ![Hola](img/Imatge28.png)
 
-
+ Dins, cliclem en LAM configuration.
 
 ![Hola](img/Imatge29.png)
 
-
+Després Edit server profiles.
 
 ![Hola](img/Imatge30.png)
 
-
+Posem la contrasenya, lam i entrem.
+Manage server profiles: amb aquest pots administrar els diferents perfils, contrasenya..
 
 ![Hola](img/Imatge31.png)
 
