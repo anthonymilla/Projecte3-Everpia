@@ -2,9 +2,9 @@
 
 Posem el 2 adaptador en adaptador pont, després dins de la màquina, anem a configuració, xarxa, Ethernet (enp0s8), afegim, posem la direcció, màscara de xarxa i guardem.
 
-![Posant Server Hostname](img/Imatge02.png)
+![Posem el 2 adaptador en adaptador pont, després dins de la màquina, anem a configuració, xarxa, Ethernet (enp0s8), afegim, posem la direcció, màscara de xarxa i guardem.](img/Imatge02.png)
 
-![Posant Server Hostname](img/Imatge01.png)
+![Posem el 2 adaptador en adaptador pont, després dins de la màquina, anem a configuració, xarxa, Ethernet (enp0s8), afegim, posem la direcció, màscara de xarxa i guardem.](img/Imatge01.png)
 
 ## A. Diagnosi Avançada amb dig (Linux / macOS)
 ## Comanda 1: Consulta Bàsica de Registre A
@@ -14,7 +14,7 @@ Posem el 2 adaptador en adaptador pont, després dins de la màquina, anem a con
 - **Valor TTL:** 243 segons  
 - **Servidor que ha respost:** 127.0.0.53 (resolent a través de UDP)
 
-![Posant Server Hostname](img/Imatge03.png)
+![Consulta Bàsica de Registre A](img/Imatge03.png)
 
 ## Comanda 2: Consulta de Servidors de Noms (NS)
 ## Executa dig tecnocampus.cat NS
@@ -25,9 +25,9 @@ Els servidors de noms autoritatius per al domini tecnocampus.cat són:
 - ns-1689.awsdns-19.co.uk
 - ns-535.awsdns-02.net
 
-![Posant Server Hostname](img/Imatge04.png)
+![Consulta de Servidors de Noms (NS)](img/Imatge04.png)
 
-![Posant Server Hostname](img/Imatge05.png)
+![Consulta de Servidors de Noms (NS)](img/Imatge05.png)
 
 ## Comanda 3: Consulta Detallada SOA
 ## Executa dig escolapia.cat SOA
@@ -36,9 +36,9 @@ El correu de l’administrador mostra qui és el responsable tècnic del domini.
 **Correu de l’administrador:** root@dns1.nominalia.com    
            **Número de sèrie:** 1761028965
 
-![Posant Server Hostname](img/Imatge06.png)
+![Consulta Detallada SOA](img/Imatge06.png)
 
-![Posant Server Hostname](img/Imatge07.png)
+![Consulta Detallada SOA](img/Imatge07.png)
 
 ## Comanda 4: Consulta resolució inversa
 ## Executa comanda dig -x 147.83.2.135
@@ -55,9 +55,9 @@ Registres obtinguts:  
 **- barcelonatech.upc.edu**   
 **- upc.edu**
 
-![Posant Server Hostname](img/Imatge08.png)
+![Consulta resolució inversa](img/Imatge08.png)
 
-![Posant Server Hostname](img/Imatge09.png)
+![Consulta resolució inversa](img/Imatge09.png)
 
 ## Comprovació de Resolució amb nslookup (Multiplataforma)
 ## Comanda 1: Consulta Bàsica no Autoritativa
@@ -76,8 +76,8 @@ Doncs que la primera com he comentat no és autoritativa i la segona si.
 ![Posant Server Hostname](img/Imatge12.png)
 
 ## Resolucions locals
-Finalment es vol comprovar el funcionament de la resolució local, útil per entorns de xarxa local on no es disposa de servidor de noms propi i que evita haver d’accedir a equips o recursos per la seva IP.
-
+**Finalment es vol comprovar el funcionament de la resolució local, útil per entorns de xarxa local on no es disposa de servidor de noms propi i que evita haver d’accedir a equips o recursos per la seva IP.**
+És el Nil. Per finalitzar comprovem el funcionament de la resolució local amb la següent comanda, aquesta va bé per entorns de xarxa local on no es disposa de servidor de noms propi i que així evita haver d'accedir a equips o recursos per la seva IP.
 ![Posant Server Hostname](img/Imatge13.png)
 
 [Anar a l'enunciat](../Tasca06/README.md)  
