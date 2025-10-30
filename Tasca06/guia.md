@@ -70,13 +70,15 @@ La resposta no és autoritativa perquè el servidor consultat no administra la z
 ## Comanda 2: Consultes autoritatives
 ## Escriure server IP i escriure la IP del primer servidor de noms del domini tecnocampus.cat que s’ha obtingut d’una consulta anterior. A continuació, indiqueu que voleu consultar registres de tipus A i del domini tecnocampus.cat
 ## Anàlisi: Quines diferències s’observen a la resposta obtinguda amb la comanda 1?
+Doncs que la primera com he comentat no és autoritativa i la segona si.
 
-
-
+![Posant Server Hostname](img/Imatge11.png)
+![Posant Server Hostname](img/Imatge12.png)
 
 ## Resolucions locals
 Finalment es vol comprovar el funcionament de la resolució local, útil per entorns de xarxa local on no es disposa de servidor de noms propi i que evita haver d’accedir a equips o recursos per la seva IP.
 
+![Posant Server Hostname](img/Imatge13.png)
 
 [Anar a l'enunciat](../Tasca06/README.md)  
 [Anar a la pàgina inicial](../README.md)
