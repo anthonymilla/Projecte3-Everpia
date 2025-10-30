@@ -1,4 +1,5 @@
-# T03: Gestió flexible de discos (LVM i Espais d’emmagatzematge)
+# Enunciat
+## T03: Gestió flexible de discos (LVM i Espais d’emmagatzematge)
 
 ## Breu descripció
 Un cop superada la fase de formació, ja esteu preparats per afrontar el repte dels nostres clients. Com ja es va explicar, tenim un nou i important client, el bufet d’advocats Garriga i associats un dels més prestigiosos de la ciutat, ha requerit els serveis de la nostra consultora. Gestiona una gran quantitat d'informació legal sensible, per la qual cosa la integritat, la disponibilitat (alta redundància) i la facilitat de gestió del seu emmagatzematge són d'importància crítica.  
@@ -60,3 +61,5 @@ Penseu que posteriorment, haureu de presentar al client les conclusions de la vo
 - [LVM Linux](https://docs.google.com/presentation/d/1EFSMfLQRM0wvxRFEvXLN0oaiBq3goWNQ/edit?usp=sharing&ouid=104728425662496836733&rtpof=true&sd=true)
 - [Espais d’emmagatzematge Windows](https://docs.google.com/presentation/d/1Xi9atPzB6fmiLM0qmKP2PxBrixb-s-ZB/edit?usp=sharing&ouid=104728425662496836733&rtpof=true&sd=true)
 
+[Anar a la primera solució](../Tasca03/Guia.md)                                                 
+[Anar a la pàgina inicial](../README.md)
