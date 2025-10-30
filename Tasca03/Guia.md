@@ -5,30 +5,23 @@
 
 ## Requisits de la Implementació i Demostració:
 
-- Configuració inicial: Creació d'un Storage Pool: Crear un pool d'emmagatzematge inicialment amb tres discos de 10 GB (simulats).
-
-
-
+- **Configuració inicial: Creació d'un Storage Pool: Crear un pool d'emmagatzematge inicialment amb tres discos de 10 GB (simulats).**     
+Amb la màquina apagada, anem a paràmetres, emmagatzematge i creem 3 discos de GB (simulats) i guardem.
 ![Configurant màquina](img/Imatge01.png)
 
-
-
+Ara dins de la màquina anem administració d’equips, inicialitzem els discos, utilitzem l’estil de partició MBR.
 ![Configurant màquina](img/Imatge02.png)
 
-
-
+Després anem a espais d'emmagatzematge i creem.
 ![Configurant màquina](img/Imatge03.png)
 
-
-
+Seguidament creem grup.
 ![Configurant màquina](img/Imatge04.png)
 
-
-
+Posem tipus de resistència en reflexe doble i de capacitat màxima 30,70 GB.
 ![Configurant màquina](img/Imatge05.png)
 
-
-
+I ja estaria.
 ![Configurant màquina](img/Imatge06.png)
 
 
