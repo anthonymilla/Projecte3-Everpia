@@ -5,7 +5,8 @@
 
 ## Requisits de la Implementació i Demostració:
 
-- **Configuració inicial: Creació d'un Storage Pool: Crear un pool d'emmagatzematge inicialment amb tres discos de 10 GB (simulats).**     
+- **Configuració inicial: Creació d'un Storage Pool: Crear un pool d'emmagatzematge inicialment amb tres discos de 10 GB (simulats).**
+
 Amb la màquina apagada, anem a paràmetres, emmagatzematge i creem 3 discos de GB (simulats) i guardem.
 ![Configurant màquina](img/Imatge01.png)
 
