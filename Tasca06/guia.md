@@ -80,9 +80,18 @@ Doncs que la primera com he comentat no és autoritativa i la segona si.
 | Resolucions locals |
 |----------------------------------------|
 ## Finalment es vol comprovar el funcionament de la resolució local, útil per entorns de xarxa local on no es disposa de servidor de noms propi i que evita haver d’accedir a equips o recursos per la seva IP.    
- 
+Al fer un ping amb la ip de la enp0s8 ens dóna error, aleshores ho afegim a hosts la ip i li posem un nom i així és pot fer ping a aquella ip només amb el seu nom, així no tenim que memorizar que es 192.168.1.163 i només momeritzem que es diu servidor-de-prova.
 
-![Posant Server Hostname](img/Imatge13.png)
+![Al fer un ping amb la ip de la enp0s8 ens dóna error, aleshores ho afegim a hosts la ip i li posem un nom i així és pot fer ping a aquella ip només amb el seu nom, així no tenim que memorizar que es 192.168.1.163 i només momeritzem que es diu servidor-de-prova.](img/Imatge13.png)
+
+![Al fer un ping amb la ip de la enp0s8 ens dóna error, aleshores ho afegim a hosts la ip i li posem un nom i així és pot fer ping a aquella ip només amb el seu nom, així no tenim que memorizar que es 192.168.1.163 i només momeritzem que es diu servidor-de-prova.](img/Imatge14.png)
+
+![Al fer un ping amb la ip de la enp0s8 ens dóna error, aleshores ho afegim a hosts la ip i li posem un nom i així és pot fer ping a aquella ip només amb el seu nom, així no tenim que memorizar que es 192.168.1.163 i només momeritzem que es diu servidor-de-prova.](img/Imatge15.png)
+
+![Al fer un ping amb la ip de la enp0s8 ens dóna error, aleshores ho afegim a hosts la ip i li posem un nom i així és pot fer ping a aquella ip només amb el seu nom, així no tenim que memorizar que es 192.168.1.163 i només momeritzem que es diu servidor-de-prova.](img/Imatge16.png)
+
+![Al fer un ping amb la ip de la enp0s8 ens dóna error, aleshores ho afegim a hosts la ip i li posem un nom i així és pot fer ping a aquella ip només amb el seu nom, així no tenim que memorizar que es 192.168.1.163 i només momeritzem que es diu servidor-de-prova.](img/Imatge17.png)
+
 
 [Anar a l'enunciat](../Tasca06/README.md)  
 [Anar a la pàgina inicial](../README.md)
