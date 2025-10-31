@@ -67,20 +67,20 @@ Registres obtinguts:  
 **Anàlisi: Per què indica que la resposta és no autoritativa?**
 La resposta no és autoritativa perquè el servidor consultat no administra la zona tecnocampus.cat i està retornant dades que té guardades en memòria cau, no dades originals de la font autoritativa.
 
-![Posant Server Hostname](img/Imatge10.png)
+![Consulta Bàsica no Autoritativa](img/Imatge10.png)
 
 ## Comanda 2: Consultes autoritatives
 **Escriure server IP i escriure la IP del primer servidor de noms del domini tecnocampus.cat que s’ha obtingut d’una consulta anterior. A continuació, indiqueu que voleu consultar registres de tipus A i del domini tecnocampus.cat**
 **Anàlisi: Quines diferències s’observen a la resposta obtinguda amb la comanda 1?**
 Doncs que la primera com he comentat no és autoritativa i la segona si.
 
-![Posant Server Hostname](img/Imatge11.png)
-![Posant Server Hostname](img/Imatge12.png)
+![Consultes autoritatives](img/Imatge11.png)
+![Consultes autoritatives](img/Imatge12.png)
 
 | Resolucions locals |
 |----------------------------------------|
 ## Finalment es vol comprovar el funcionament de la resolució local, útil per entorns de xarxa local on no es disposa de servidor de noms propi i que evita haver d’accedir a equips o recursos per la seva IP.    
-És el Nil. Per finalitzar comprovem el funcionament de la resolució local amb la següent comanda, aquesta va bé per entorns de xarxa local on no es disposa de servidor de noms propi i que així evita haver d'accedir a equips o recursos per la seva IP.     
+ 
 
 ![Posant Server Hostname](img/Imatge13.png)
 
