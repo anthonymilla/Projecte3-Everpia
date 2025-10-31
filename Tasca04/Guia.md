@@ -146,31 +146,57 @@ Accedim al directori.
 
 ![Accedim al directori.](img/Imatge34.png)
 
+Ara creem els dos grups de seguretat al directori: tech i manager. Anem a comptes, grups i nou grup.
+
 ![Hola](img/Imatge35.png)
+
+Primer grup.
 
 ![Hola](img/Imatge36.png)
 
+Segon grup.
+
 ![Hola](img/Imatge37.png)
+
+Ara creem un usuari per a cada grup: tech01 (membre de tech) i manager01 (membre de manager). Per els usuaris, anem a comptes, usuaris i nou usuari.
 
 ![Hola](img/Imatge38.png)
 
+Primer usuari. Posem en personal el nom i cognom.
+
 ![Hola](img/Imatge39.png)
+
+Després a Unix posem el nom de l'usuari i nom comú.
 
 ![Hola](img/Imatge40.png)
 
+Ja està.
+
 ![Hola](img/Imatge41.png)
+
+Segon usuari. Posem en personal el nom i cognom.
 
 ![Hola](img/Imatge42.png)
 
+Després a Unix posem el nom de l'usuari i nom comú.
+
 ![Hola](img/Imatge43.png)
+
+Ja està.
 
 ![Hola](img/Imatge44.png)
 
+Ja estarien creats els grups.
+
 ![Hola](img/Imatge45.png)
+
+I ja estarien creats els usuaris.
 
 ![Hola](img/Imatge46.png)
 
-![Hola](img/Imatge47.png)
+
+
+
 
 [Anar a l'enunciat](../Tasca04/README.md)  
 [Anar a la pàgina inicial](../README.md)
