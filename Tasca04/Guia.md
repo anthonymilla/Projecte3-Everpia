@@ -148,51 +148,54 @@ Accedim al directori.
 
 Ara creem els dos grups de seguretat al directori: tech i manager. Anem a comptes, grups i nou grup.
 
-![Hola](img/Imatge35.png)
+![Creem els dos grups de seguretat al directori: tech i manager. Anem a comptes, grups i nou grup.](img/Imatge35.png)
 
 Primer grup.
 
-![Hola](img/Imatge36.png)
+![Primer grup](img/Imatge36.png)
 
 Segon grup.
 
-![Hola](img/Imatge37.png)
+![Segon grup](img/Imatge37.png)
 
 Ara creem un usuari per a cada grup: tech01 (membre de tech) i manager01 (membre de manager). Per els usuaris, anem a comptes, usuaris i nou usuari.
 
-![Hola](img/Imatge38.png)
+![Creem un usuari per a cada grup: tech01 (membre de tech) i manager01 (membre de manager). Per els usuaris, anem a comptes, usuaris i nou usuari.](img/Imatge38.png)
 
 Primer usuari. Posem en personal el nom i cognom.
 
-![Hola](img/Imatge39.png)
+![Primer usuari. Posem en personal el nom i cognom.](img/Imatge39.png)
 
 Després a Unix posem el nom de l'usuari i nom comú.
 
-![Hola](img/Imatge40.png)
+![Després a Unix posem el nom de l'usuari i nom comú.](img/Imatge40.png)
 
-Ja està.
+Ja està, s’ha creat un nou grup.
 
-![Hola](img/Imatge41.png)
+![S’ha creat un nou grup.](img/Imatge41.png)
 
 Segon usuari. Posem en personal el nom i cognom.
 
-![Hola](img/Imatge42.png)
+![Segon usuari. Posem en personal el nom i cognom.](img/Imatge42.png)
 
 Després a Unix posem el nom de l'usuari i nom comú.
 
-![Hola](img/Imatge43.png)
+![A Unix posem el nom de l'usuari i nom comú.](img/Imatge43.png)
 
-Ja està.
+Ja està, s’ha creat un nou grup.
 
-![Hola](img/Imatge44.png)
+![S’ha creat un nou grup.](img/Imatge44.png)
 
 Ja estarien creats els grups.
 
-![Hola](img/Imatge45.png)
+![Ja estarien creats els grups.](img/Imatge45.png)
 
 I ja estarien creats els usuaris.
 
-![Hola](img/Imatge46.png)
+![I ja estarien creats els usuaris.](img/Imatge46.png)
+
+| 4. Integració de Client (Client Ubuntu Desktop) |
+|----------------------------------------|
 
 
 
