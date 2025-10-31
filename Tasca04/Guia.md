@@ -116,39 +116,61 @@ Instal·lem el Gestor d'Usuaris LDAP (LAM) amb la següent comanda, això ja des
 
 Posem ip a, per veure l'ip i després la posem al buscador agregant al final /lam i entrarem a la web.
 
-![Hola](img/Imatge27.png)
+![Posem ip a, per veure l'ip i després la posem al buscador agregant al final /lam i entrarem a la web.](img/Imatge27.png)
 
 Dins, cliquem en LAM configuration.
 
-![Hola](img/Imatge28.png)
+![Cliquem en LAM configuration.](img/Imatge28.png)
 
 Després Edit server profiles.
 
-![Hola](img/Imatge29.png)
+![Edit server profiles](img/Imatge29.png)
 
 Posem la contrasenya; lam i entrem.
 
 Manage server profiles: amb aquest pots administrar els diferents perfils, contrasenya..
 
-![Hola](img/Imatge30.png)
+![Posem la contrasenya; lam i entrem.](img/Imatge30.png)
 
 Ara anem a opcions generals i configurem, compte, admin, idioma..
 
-![Hola](img/Imatge31.png)
+![Opcions generals i configurem, compte, admin, idioma..](img/Imatge31.png)
 
-![Hola](img/Imatge32.png)
+![Opcions generals i configurem, compte, admin, idioma..](img/Imatge32.png)
 
 Anem a Account Types definim els DN dels usuaris i grups, també incloem una OU pels usuaris i una altre pels grups i es pot afegir els tipus d'objectes del directori, són usuaris i grups per defecte.
 
-![Hola](img/Imatge33.png)
+![Anem a Account Types definim els DN dels usuaris i grups, també incloem una OU pels usuaris i una altre pels grups i es pot afegir els tipus d'objectes del directori, són usuaris i grups per defecte.](img/Imatge33.png)
 
 Accedim al directori.
 
-![Hola](img/Imatge34.png)
+![Accedim al directori.](img/Imatge34.png)
 
+![Hola](img/Imatge35.png)
 
+![Hola](img/Imatge36.png)
 
+![Hola](img/Imatge37.png)
 
+![Hola](img/Imatge38.png)
+
+![Hola](img/Imatge39.png)
+
+![Hola](img/Imatge40.png)
+
+![Hola](img/Imatge41.png)
+
+![Hola](img/Imatge42.png)
+
+![Hola](img/Imatge43.png)
+
+![Hola](img/Imatge44.png)
+
+![Hola](img/Imatge45.png)
+
+![Hola](img/Imatge46.png)
+
+![Hola](img/Imatge47.png)
 
 [Anar a l'enunciat](../Tasca04/README.md)  
 [Anar a la pàgina inicial](../README.md)
