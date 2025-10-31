@@ -9,7 +9,7 @@ La guia ha de cobrir els següents punts obligatoris:
 Comencem instal·lant la nostra eina, Bitwarden en aquest cas.
 ![Instal·lant la nostra eina, Bitwarden](img/Imatge01.png)
 
-    L'obrim. 
+L'obrim.    
 ![Obrim Bitwarden](img/Imatge02.png)
 
 Una vegada a dins crearem el nostre nou compte.
