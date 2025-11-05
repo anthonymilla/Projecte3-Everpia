@@ -203,11 +203,18 @@ Instal·lem el client i configurem la interfície de xarxa, deixem l’adaptador
 
 ![Ja estarien creats els grups.](img/Imatge48.png)
 
-![Ja estarien creats els grups.](img/Imatge49.png)
+![Ja estarien creats els grups.](img/Imatge50.png)
 
 Instantanea.
 
-![Ja estarien creats els grups.](img/Imatge50.png)
+![Ja estarien creats els grups.](img/Imatge49.png)
+
+![Ja estarien creats els grups.](img/Imatge51.png)
+
+![Ja estarien creats els grups.](img/Imatge52.png)
+
+
+
 
 
 [Anar a l'enunciat](../Tasca04/README.md)  
