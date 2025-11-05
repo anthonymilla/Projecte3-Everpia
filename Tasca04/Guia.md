@@ -199,19 +199,31 @@ I ja estarien creats els usuaris.
 
 Instal·lem el client i configurem la interfície de xarxa, deixem l’adaptador 1 en NAT i posem el segon en adaptador de només l’amfitrió, després comprovem amb ip a, tot això per comunicar-se amb el servidor.
 
-![Ja estarien creats els grups.](img/Imatge47.png)
+![Instal·lem el client i configurem la interfície de xarxa, deixem l’adaptador 1 en NAT i posem el segon en adaptador de només l’amfitrió, després comprovem amb ip a, tot això per comunicar-se amb el servidor.](img/Imatge47.png)
 
-![Ja estarien creats els grups.](img/Imatge48.png)
+![Instal·lem el client i configurem la interfície de xarxa, deixem l’adaptador 1 en NAT i posem el segon en adaptador de només l’amfitrió, després comprovem amb ip a, tot això per comunicar-se amb el servidor.](img/Imatge48.png)
 
-![Ja estarien creats els grups.](img/Imatge50.png)
+![Instal·lem el client i configurem la interfície de xarxa, deixem l’adaptador 1 en NAT i posem el segon en adaptador de només l’amfitrió, després comprovem amb ip a, tot això per comunicar-se amb el servidor.](img/Imatge50.png)
 
-Instantanea.
+Instantània.
 
-![Ja estarien creats els grups.](img/Imatge49.png)
+![Instantània.](img/Imatge49.png)
 
-![Ja estarien creats els grups.](img/Imatge51.png)
+![Entrem en /etc/hosts](img/Imatge51.png)
 
-![Ja estarien creats els grups.](img/Imatge52.png)
+![Posem l'ip](img/Imatge52.png)
+
+
+
+![Posem l'ip](img/Imatge53.png)
+
+
+
+![Posem l'ip](img/Imatge54.png)
+
+
+
+![Posem l'ip](img/Imatge55.png)
 
 
 
