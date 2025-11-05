@@ -209,7 +209,11 @@ Instantània.
 
 ![Instantània.](img/Imatge49.png)
 
+
+
 ![Entrem en /etc/hosts](img/Imatge51.png)
+
+
 
 ![Posem l'ip](img/Imatge52.png)
 
