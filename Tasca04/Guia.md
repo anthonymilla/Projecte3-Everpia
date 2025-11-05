@@ -197,13 +197,15 @@ I ja estarien creats els usuaris.
 | 4. Integració de Client (Client Ubuntu Desktop) |
 |----------------------------------------|
 
-Instal·lem el client i configurem la interfície de xarxa, deixem l’adaptador 1 en NAT i posem el segon en adaptador de només l’amfitrió, després comprovem, tot això per comunicar-se amb el servidor.
+Instal·lem el client i configurem la interfície de xarxa, deixem l’adaptador 1 en NAT i posem el segon en adaptador de només l’amfitrió, després comprovem amb ip a, tot això per comunicar-se amb el servidor.
 
 ![Ja estarien creats els grups.](img/Imatge47.png)
 
 ![Ja estarien creats els grups.](img/Imatge48.png)
 
 ![Ja estarien creats els grups.](img/Imatge49.png)
+
+Instantanea.
 
 ![Ja estarien creats els grups.](img/Imatge50.png)
 
