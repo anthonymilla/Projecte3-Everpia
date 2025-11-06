@@ -13,8 +13,8 @@ Amb la màquina apagada, anem a paràmetres, emmagatzematge i creem 3 discos de 
 Ara dins de la màquina anem administració d’equips, inicialitzem els discos, utilitzem l’estil de partició MBR.
 ![Configurant màquina](img/Imatge02.png)
 
-- Estudi de Configuracions: Demostrar i documentar la creació d'un Espai d'Emmagatzematge utilitzant:
-- Resiliència de Mirall (Mirroring): Usar dos dels discos. Comprovar que ofereix alta disponibilitat.
+- **Estudi de Configuracions: Demostrar i documentar la creació d'un Espai d'Emmagatzematge utilitzant:**
+- **Resiliència de Mirall (Mirroring): Usar dos dels discos. Comprovar que ofereix alta disponibilitat.**
 Anem a espais d'emmagatzematge i creem.
 ![Configurant màquina](img/Imatge03.png)
 
