@@ -14,8 +14,10 @@ Ara dins de la màquina anem administració d’equips, inicialitzem els discos,
 ![Dins de la màquina anem administració d’equips, inicialitzem els discos, utilitzem l’estil de partició MBR.](img/Imatge02.png)
 
 - **Estudi de Configuracions: Demostrar i documentar la creació d'un Espai d'Emmagatzematge utilitzant:**
-- **Resiliència de Mirall (Mirroring): Usar dos dels discos. Comprovar que ofereix alta disponibilitat.**     
+- **Resiliència de Mirall (Mirroring): Usar dos dels discos. Comprovar que ofereix alta disponibilitat.**
+ 
 Anem a espais d'emmagatzematge i creem.
+
 ![Anem a espais d'emmagatzematge i creem.](img/Imatge03.png)
 
 Seguidament creem grup, usant 2 dels discos.
