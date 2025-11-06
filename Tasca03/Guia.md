@@ -22,12 +22,45 @@ Seguidament creem grup, usant 2 dels discos.
 ![Configurant màquina](img/Imatge04.png)
 
 Posem tipus de resistència en reflexe doble i de capacitat màxima 30,70 GB.
+
 ![Configurant màquina](img/Imatge05.png)
 
 I ja estaria.
+
 ![Configurant màquina](img/Imatge06.png)
 
+![Configurant màquina](img/Imatge07.png)
 
+- **Resiliència de Paritat (Parity): Explicant la seva eficiència d'espai en comparació amb el mirall. Cal usar els tres discos.**
+
+Creem grup, usant 2 dels discos.
+
+![Configurant màquina](img/Imatge08.png)
+
+Posem tipus de resistència en paritat i de capacitat màxima 30,70 GB.
+
+![Configurant màquina](img/Imatge09.png)
+
+I ja estaria.
+
+![Configurant màquina](img/Imatge10.png)
+
+![Configurant màquina](img/Imatge11.png)
+
+**Eficiència d'espai: Paritat vs Mirall**
+- **Mirall (2 discos):** Guarda una còpia exacta de les dades en cada disc. Si tens 2 discos de 10 GB, només pots usar 10 GB per dades. L'altre 10 GB és per la còpia.  50% d'eficiència d'espai.
+- **Paritat (3 discos):** Distribueix les dades i la informació de recuperació entre els discos. Amb 3 discos de 10 GB, pots usar 20 GB per dades i 10 GB per paritat.  ≈66% d'eficiència d'espai.
+
+**Conclusió:** La paritat és més eficient en espai que el mirall, però pot ser una mica més lenta en rendiment.
+
+
+- **Resiliència de mirall triple. Afegir tant discos de 10 GB com siguin necessaris.**
+
+
+
+
+
+- **Demostració de la Gestió: Mostrar com es visualitza l'estat dels discos i del pool des de la consola de gestió de Windows, simulant la facilitat de manteniment.**
 
 
 
