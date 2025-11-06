@@ -197,16 +197,11 @@ I ja estarien creats els usuaris.
 | 4. Integració de Client (Client Ubuntu Desktop) |
 |----------------------------------------|
 
-Instal·lem el client i configurem la interfície de xarxa, deixem l’adaptador 1 en NAT i posem el segon en adaptador de només l’amfitrió, fem actualitzacions i seguidament després comprovem amb ip a, tot això per comunicar-se amb el servidor.
+Instal·lem el client i configurem la interfície de xarxa, deixem l’adaptador 1 en NAT i posem el segon en adaptador de només l’amfitrió, seguidament després comprovem amb ip a, tot això per comunicar-se amb el servidor.
 
-![Instal·lem el client i configurem la interfície de xarxa, deixem l’adaptador 1 en NAT i posem el segon en adaptador de només l’amfitrió, fem actualitzacions i seguidament després comprovem amb ip a, tot això per comunicar-se amb el servidor.](img/Imatge47.png)
+![Instal·lem el client i configurem la interfície de xarxa, deixem l’adaptador 1 en NAT i posem el segon en adaptador de només l’amfitrió, seguidament després comprovem amb ip a, tot això per comunicar-se amb el servidor.](img/Imatge47.png)
 
-![Instal·lem el client i configurem la interfície de xarxa, deixem l’adaptador 1 en NAT i posem el segon en adaptador de només l’amfitrió, fem actualitzacions i seguidament després comprovem amb ip a, tot això per comunicar-se amb el servidor.](img/Imatge48.png)
-
-![Instal·lem el client i configurem la interfície de xarxa, deixem l’adaptador 1 en NAT i posem el segon en adaptador de només l’amfitrió, fem actualitzacions i seguidament després comprovem amb ip a, tot això per comunicar-se amb el servidor.](img/Imatge488.png)
-
-![Instal·lem el client i configurem la interfície de xarxa, deixem l’adaptador 1 en NAT i posem el segon en adaptador de només l’amfitrió, fem actualitzacions i seguidament després comprovem amb ip a, tot això per comunicar-se amb el servidor.](img/Imatge489.png)
-
+![Instal·lem el client i configurem la interfície de xarxa, deixem l’adaptador 1 en NAT i posem el segon en adaptador de només l’amfitrió, seguidament després comprovem amb ip a, tot això per comunicar-se amb el servidor.](img/Imatge48.png)
 
 ![Instal·lem el client i configurem la interfície de xarxa, deixem l’adaptador 1 en NAT i posem el segon en adaptador de només l’amfitrió, fem actualitzacions i seguidament després comprovem amb ip a, tot això per comunicar-se amb el servidor.](img/Imatge50.png)
 
@@ -216,23 +211,31 @@ Fem clic a la barra, en surten diverses opcions, escollim Instantànies, despré
 
 
 
+![Actualitzacions](img/Imatge53.png)
+
+![Actualitzacions](img/Imatge54.png)
+
+
+
+![Ip a](img/Imatge55.png)
+
+
+
 ![Entrem en /etc/hosts](img/Imatge51.png)
-
-
 
 ![Configurem l'arxiu d'hosts del client per resoldre l'adreça IP del servidor a server.innovatechXX.test.](img/Imatge52.png)
 
 
 
-![Posem l'ip](img/Imatge53.png)
+![Posem l'ip](img/Imatge56.png)
 
 
 
-![Posem l'ip](img/Imatge54.png)
+![Posem l'ip](img/Imatge57.png)
 
 
 
-![Posem l'ip](img/Imatge55.png)
+![Posem l'ip](img/Imatge58.png)
 
 
 
