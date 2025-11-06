@@ -205,7 +205,7 @@ Instal·lem el client i configurem la interfície de xarxa, deixem l’adaptador
 
 ![Instal·lem el client i configurem la interfície de xarxa, deixem l’adaptador 1 en NAT i posem el segon en adaptador de només l’amfitrió, després comprovem amb ip a, tot això per comunicar-se amb el servidor.](img/Imatge50.png)
 
-Instantània.
+Fem clic a la barra, en surten diverses opcions, escollim Instantànies, després, cliquem on posa + fes, guardem els canvis i iniciem la màquina.
 
 ![Instantània.](img/Imatge49.png)
 
@@ -215,7 +215,7 @@ Instantània.
 
 
 
-![Posem l'ip](img/Imatge52.png)
+![Configurem l'arxiu d'hosts del client per resoldre l'adreça IP del servidor a server.innovatechXX.test.](img/Imatge52.png)
 
 
 
