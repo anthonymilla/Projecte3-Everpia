@@ -33,7 +33,7 @@ I ja estaria.
 
 - **Resiliència de Paritat (Parity): Explicant la seva eficiència d'espai en comparació amb el mirall. Cal usar els tres discos.**
 
-Creem grup, usant 2 dels discos.
+Creem grup, usant els 3  discos.
 
 ![Configurant màquina](img/Imatge08.png)
 
