@@ -219,27 +219,28 @@ Després ip a, per veure la ip i posar-la.
 
 ![Ip a](img/Imatge55.png)
 
-Configurem l'arxiu d'hosts del client per resoldre l'adreça IP del servidor a server.innovatechXX.test. Primer posem la següent comanda per entra a l’arxiu /etc/hosts
+Configurem l'arxiu d'hosts del client per resoldre l'adreça IP del servidor a server.innovatechXX.test. Primer posem la següent comanda per entrar a l’arxiu /etc/hosts
 
 ![Entrem en /etc/hosts](img/Imatge51.png)
 
 Canviem la segona i tercera línea, amb l’ip, innovatech.test
 
-![Configurem l'arxiu d'hosts del client per resoldre l'adreça IP del servidor a server.innovatechXX.test.](img/Imatge522.png)
+![Configurem l'arxiu d'hosts del client per resoldre l'adreça IP del servidor a server.innovatech21.test.](img/Imatge522.png)
 
 Després anem a l’arxiu /etc/hostname
 
-![Posem l'ip](img/Imatge56.png)
+![Anem a l’arxiu /etc/hostname](img/Imatge56.png)
 
 On posem client.innovatech21.test
 
-![Posem l'ip](img/Imatge57.png)
+![Posem client.innovatech21.test](img/Imatge57.png)
 
 Fem la comprovació.
 
-![Posem l'ip](img/Imatge58.png)
+![Comprovació de configuració de l'arxiu d'hosts del client per resoldre l'adreça IP del servidor a server.innovatechXX.test.](img/Imatge58.png)
 
-![Posem l'ip](img/Imatge599.png)
+![Comprovació de configuració de l'arxiu d'hosts del client per resoldre l'adreça IP del servidor a server.innovatechXX.test.](img/Imatge599.png)
+
 
 
 
