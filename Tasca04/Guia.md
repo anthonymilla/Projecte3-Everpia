@@ -215,7 +215,7 @@ Primer fem actualitzacions.
 
 ![Actualitzacions](img/Imatge54.png)
 
-Després ip a, per veure la ip.
+Després ip a, per veure la ip i posarla.
 
 ![Ip a](img/Imatge55.png)
 
