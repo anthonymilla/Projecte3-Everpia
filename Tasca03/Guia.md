@@ -18,7 +18,7 @@ Ara dins de la màquina anem administració d’equips, inicialitzem els discos,
 Anem a espais d'emmagatzematge i creem.
 ![Configurant màquina](img/Imatge03.png)
 
-Seguidament creem grup.
+Seguidament creem grup, usant 2 dels discos.
 ![Configurant màquina](img/Imatge04.png)
 
 Posem tipus de resistència en reflexe doble i de capacitat màxima 30,70 GB.
