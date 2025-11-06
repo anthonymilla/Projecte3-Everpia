@@ -14,7 +14,7 @@ Ara dins de la màquina anem administració d’equips, inicialitzem els discos,
 ![Configurant màquina](img/Imatge02.png)
 
 - **Estudi de Configuracions: Demostrar i documentar la creació d'un Espai d'Emmagatzematge utilitzant:**
-- **Resiliència de Mirall (Mirroring): Usar dos dels discos. Comprovar que ofereix alta disponibilitat.**
+- **Resiliència de Mirall (Mirroring): Usar dos dels discos. Comprovar que ofereix alta disponibilitat.**     
 Anem a espais d'emmagatzematge i creem.
 ![Configurant màquina](img/Imatge03.png)
 
