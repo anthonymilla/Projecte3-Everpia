@@ -225,7 +225,7 @@ Configurem l'arxiu d'hosts del client per resoldre l'adreça IP del servidor a s
 
 Canviem la segona i tercera línea, amb l’ip, innovatech.test
 
-![Configurem l'arxiu d'hosts del client per resoldre l'adreça IP del servidor a server.innovatechXX.test.](img/Imatge52.png)
+![Configurem l'arxiu d'hosts del client per resoldre l'adreça IP del servidor a server.innovatechXX.test.](img/Imatge522.png)
 
 Després anem a l’arxiu /etc/hostname
 
@@ -239,7 +239,7 @@ Fem la comprovació.
 
 ![Posem l'ip](img/Imatge58.png)
 
-![Posem l'ip](img/Imatge59.png)
+![Posem l'ip](img/Imatge599.png)
 
 
 
