@@ -237,6 +237,7 @@ Fem clic a la barra, en surten diverses opcions, escollim Instantànies, despré
 
 ![Posem l'ip](img/Imatge58.png)
 
+![Posem l'ip](img/Imatge59.png)
 
 
 
