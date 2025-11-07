@@ -32,6 +32,13 @@ Sí, serà intens. Però també una gran oportunitat per demostrar que **pots so
 
 ## Tasques
 - [Tasca1](/Tasca01)
+- [Tasca2](/Tasca02)
 - [Tasca3](/Tasca03)
 - [Tasca4](/Tasca04)
+- [Tasca5](/Tasca05)
 - [Tasca6](/Tasca06)
+- [Tasca7](/Tasca07)
+- [Tasca8](/Tasca10)
+- [Tasca9](/Tasca09)
+- [Tasca10](/Tasca10)
+- [Profucte1](/Producte01)
