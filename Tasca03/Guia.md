@@ -21,7 +21,7 @@ Anem a espais d'emmagatzematge i creem.
 ![Anem a espais d'emmagatzematge i creem.](img/Imatge03.png)
 
 Seguidament creem grup, usant 2 dels discos.
-![creem grup, usant 2 dels discos.](img/Imatge04.png)
+![creem grup, usant 2 dels discos.](img/Imatge044.png)
 
 Posem tipus de resistència en reflexe doble i de capacitat màxima 30,70 GB.
 
