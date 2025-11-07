@@ -241,6 +241,78 @@ Fem la comprovació.
 
 ![Comprovació de configuració de l'arxiu d'hosts del client per resoldre l'adreça IP del servidor a server.innovatechXX.test.](img/Imatge599.png)
 
+Ara primerament comencem instal·lant els mòduls necessaris per permetre l'autenticació amb LDAP. Instal·lem els mòduls necessaris per usar libmap i nss.
+
+![Instal·lem els mòduls necessaris per permetre l'autenticació amb LDAP. Instal·lem els mòduls necessaris per usar libmap i nss.](img/Imatge60.png)
+
+Posem l’identificador uniforme de recursos del servidor LDAP.
+
+![Posem l’identificador uniforme de recursos del servidor LDAP.](img/Imatge61.png)
+
+Posem el nom distingit de la base de cerca.
+
+![Posem el nom distingit de la base de cerca.](img/Imatge62.png)
+
+Posem la versió LDAP a utilitzar, 3.
+
+![Posem la versió LDAP a utilitzar, 3.](img/Imatge63.png)
+
+Fes que l'usuari root local sigui administrador de la base de dades, posem que si.
+
+![Fes que l'usuari root local sigui administrador de la base de dades, posem que si.](img/Imatge64.png)
+
+Ens diu que, si la base de dades LDAP requereix login, posem que no.
+
+![Ens diu que, si la base de dades LDAP requereix login, posem que no.](img/Imatge65.png)
+
+Posem el compte LDAP per a l'usuari root.
+
+![Posem el compte LDAP per a l'usuari root.](img/Imatge66.png)
+
+Posem la contrasenya del compte root LDAP.
+
+![Posem la contrasenya del compte root LDAP.](img/Imatge67.png)
+
+![Instal·lem els mòduls necessaris per permetre l'autenticació amb LDAP. Instal·lem els mòduls necessaris per usar libmap i nss.](img/Imatge68.png)
+
+Ara comprovem la connectivitat amb el servidor fent una consulta ldapsearch des del client.
+
+![Comprovem la connectivitat amb el servidor fent una consulta ldapsearch des del client.](img/Imatge69.png)
+
+![Comprovem la connectivitat amb el servidor fent una consulta ldapsearch des del client.](img/Imatge70.png)
+
+Modifiquem els arxius de configuració del client necessaris. Primerament configurem l'arxiu nsswitch.conf, indicant que s'usarà ldap per usuaris i grups.
+
+![Modifiquem els arxius de configuració del client necessaris. Primerament configurem l'arxiu nsswitch.conf, indicant que s'usarà ldap per usuaris i grups.](img/Imatge71.png)
+
+![Modifiquem els arxius de configuració del client necessaris. Primerament configurem l'arxiu nsswitch.conf, indicant que s'usarà ldap per usuaris i grups.](img/Imatge72.png)
+
+Canvis:
+
+![Modifiquem els arxius de configuració del client necessaris. Primerament configurem l'arxiu nsswitch.conf, indicant que s'usarà ldap per usuaris i grups.](img/Imatge722.png)
+
+Ara anem a l'arxiu /etc/pam.d/common-password, anem a aquesta línea que surt (sortia): use_authtok i eliminem: use_authtok
+
+![Anem a l'arxiu /etc/pam.d/common-password, anem a aquesta línea que surt (sortia): use_authtok i eliminem: use_authtok](img/Imatge73.png)
+
+![Anem a l'arxiu /etc/pam.d/common-password, anem a aquesta línea que surt (sortia): use_authtok i eliminem: use_authtok](img/Imatge74.png)
+
+![Anem a l'arxiu /etc/pam.d/common-password, anem a aquesta línea que surt (sortia): use_authtok i eliminem: use_authtok](img/Imatge744.png)
+
+Ara anem a l’arxiu /etc/pam.d/common-session, on afegim la següent línia per crear els perfils.
+
+![Anem a l’arxiu /etc/pam.d/common-session, on afegim la següent línia per crear els perfils.](img/Imatge75.png)
+
+![Anem a l’arxiu /etc/pam.d/common-session, on afegim la següent línia per crear els perfils.](img/Imatge76.png)
+
+Canvi:
+
+![Anem a l’arxiu /etc/pam.d/common-session, on afegim la següent línia per crear els perfils.](img/Imatge766.png)
+
+Reiniciem els serveis i verifiquem amb la següent comanda: getent passwd que els usuaris del directori són visibles localment.
+
+
+
 
 
 
