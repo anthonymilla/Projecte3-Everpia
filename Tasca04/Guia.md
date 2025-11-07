@@ -297,7 +297,7 @@ Ara anem a l'arxiu /etc/pam.d/common-password, anem a aquesta línea que surt (s
 
 ![Anem a l'arxiu /etc/pam.d/common-password, anem a aquesta línea que surt (sortia): use_authtok i eliminem: use_authtok](img/Imatge74.png)
 
-![Anem a l'arxiu /etc/pam.d/common-password, anem a aquesta línea que surt (sortia): use_authtok i eliminem: use_authtok](img/Imatge744.png)
+![Anem a l'arxiu /etc/pam.d/common-password, anem a aquesta línea que surt (sortia): use_authtok i eliminem: use_authtok](img/Imatge7444.png)
 
 Ara anem a l’arxiu /etc/pam.d/common-session, on afegim la següent línia per crear els perfils.
 
