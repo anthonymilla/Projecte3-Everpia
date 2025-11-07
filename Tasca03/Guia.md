@@ -62,7 +62,9 @@ I ja estaria.
 
 - **Resiliència de mirall triple. Afegir tant discos de 10 GB com siguin necessaris.**
 
-![Creem grup, usant els 3  discos.](img/Imatge13.png)
+Creem grup, usant tant discos de 10 GB com siguin necessaris.
+
+![Creem grup, usant els 3  discos.](img/Imatge12.png)
 
 
 
