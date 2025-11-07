@@ -31,6 +31,7 @@ Cada error és una lliçó, cada solució un petit triomf. Aquí no hi ha profes
 Sí, serà intens. Però també una gran oportunitat per demostrar que **pots sobreviure en qualsevol empresa IT**.
 
 ## Tasques
+- [Tasca0](/Tasca00)
 - [Tasca1](/Tasca01)
 - [Tasca2](/Tasca02)
 - [Tasca3](/Tasca03)
@@ -38,7 +39,13 @@ Sí, serà intens. Però també una gran oportunitat per demostrar que **pots so
 - [Tasca5](/Tasca05)
 - [Tasca6](/Tasca06)
 - [Tasca7](/Tasca07)
-- [Tasca8](/Tasca10)
+- [Tasca8](/Tasca08)
 - [Tasca9](/Tasca09)
 - [Tasca10](/Tasca10)
 - [Profucte1](/Producte01)
+- [Profucte2](/Producte02)
+- [Profucte3](/Producte03)
+- [Profucte4](/Producte04)
+- [Profucte5](/Producte05)
+- [Profucte6](/Producte06)
+- [Profucte7](/Producte07)
