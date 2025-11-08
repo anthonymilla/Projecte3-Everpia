@@ -21,13 +21,13 @@ Anem a espais d'emmagatzematge i creem.
 ![Anem a espais d'emmagatzematge i creem.](img/Imatge03.png)
 
 Seguidament creem grup, usant 2 dels discos.
-![creem grup, usant 2 dels discos.](img/Imatge044.png)
+![Creem grup, usant 2 dels discos.](img/Imatge044.png)
 
 Posem tipus de resistència en reflexe doble i de capacitat màxima 30,70 GB.
 
 ![Posem tipus de resistència en reflexe doble i de capacitat màxima 30,70 GB.](img/Imatge05.png)
 
-I ja estaria.
+I ja estaria creat.
 
 ![Resiliència de Mirall (Mirroring): Usant dos dels discos.](img/Imatge06.png)
 
@@ -47,11 +47,11 @@ Posem tipus de resistència en paritat i de capacitat màxima 30,70 GB.
 
 ![Posem tipus de resistència en paritat i de capacitat màxima 30,70 GB.](img/Imatge09.png)
 
-I ja estaria.
+I ja estaria creat.
 
-![Resiliència de Paritat (Parity): Explicant la seva eficiència d'espai en comparació amb el mirall. Cal usar els tres discos.](img/Imatge10.png)
+![Resiliència de Paritat (Parity): Usant els tres discos.](img/Imatge10.png)
 
-![Resiliència de Paritat (Parity): Cal usar els tres discos.](img/Imatge11.png)
+![Resiliència de Paritat (Parity): Usant els tres discos.](img/Imatge11.png)
 
 **Eficiència d'espai: Paritat vs Mirall**
 - **Mirall (2 discos):** Guarda una còpia exacta de les dades en cada disc. Si tens 2 discos de 10 GB, només pots usar 10 GB per dades. L'altre 10 GB és per la còpia.  50% d'eficiència d'espai.
@@ -62,9 +62,9 @@ I ja estaria.
 
 - **Resiliència de mirall triple. Afegir tant discos de 10 GB com siguin necessaris.**
 
-Creem grup, usant tant discos de 10 GB com siguin necessaris.
+Creem grup, usant tant discos de 10 GB com siguin necessaris (5 discos).
 
-![Creem grup, usant els 3  discos.](img/Imatge12.png)
+![Creem grup, usant tant discos de 10 GB com siguin necessaris (5 discos).](img/Imatge.png)
 
 
 
