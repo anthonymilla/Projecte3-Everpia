@@ -8,7 +8,7 @@ L’objectiu final és aprendre a replicar fidelment una web existent, tant a ni
 
 ## Instruccions
 
-El producte P03: Rèplica web consisteix en la creació d’una còpia en local de la web davidperalvarez.com utilitzant WordPress.
+El producte P03: Rèplica web consisteix en la creació d’una còpia en local de la web [davidperalvarez.com](https://davidperalvarez.com) utilitzant WordPress.
 
 Cada consultor, de forma individual haurà d’instal·lar un nou lloc al seu WP Local i construir manualment totes les pàgines que apareixen al mapa del lloc XML (sitemap) del web original.
 
