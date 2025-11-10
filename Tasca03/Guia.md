@@ -35,25 +35,25 @@ I ja estaria creat.
 
 I posem algun arxiu dins de l’espai per fer la prova de disponibilitat.
 
-![Posem algun arxiu dins de l’espai per fer la prova de disponibilitat.](img/Imatge0.png)
+![Posem algun arxiu dins de l’espai per fer la prova de disponibilitat.](img/Imatge77.png)
 
 Comprovació que ofereix alta disponibilitat. Desconnectem el disc 2.
 
-![Comprovació que ofereix alta disponibilitat. Desconnectem el disc 2.](img/Imatge0.png)
+![Comprovació que ofereix alta disponibilitat. Desconnectem el disc 2.](img/Imatge777.png)
 
-![Comprovació que ofereix alta disponibilitat. Desconnectem el disc 2.](img/Imatge0.png)
+![Comprovació que ofereix alta disponibilitat. Desconnectem el disc 2.](img/Imatge7777.png)
 
 Surt una alerta que s’ha perdut el mirall, però podem continuar llegint la informació que havíem guardat.
 
-![Surt una alerta que s’ha perdut el mirall, però podem continuar llegint la informació que havíem guardat.](img/Imatge0.png)
+![Surt una alerta que s’ha perdut el mirall, però podem continuar llegint la informació que havíem guardat.](img/Imatge88.png)
 
-![Surt una alerta que s’ha perdut el mirall, però podem continuar llegint la informació que havíem guardat.](img/Imatge0.png)
+![Surt una alerta que s’ha perdut el mirall, però podem continuar llegint la informació que havíem guardat.](img/Imatge888.png)
 
 Afegim el tercer disc a l'espai de reflex doble i entrem, no surt la alerta i podem veure el nostre disc de reflex doble amb normalitat i sense problemes. 
 
-![Afegim el tercer disc a l'espai de reflex doble i entre, no surt la alerta i podem veure el nostre disc de reflex doble amb normalitat i sense problemes. ](img/Imatge0.png)
+![Afegim el tercer disc a l'espai de reflex doble i entrem, no surt la alerta i podem veure el nostre disc de reflex doble amb normalitat i sense problemes. ](img/Imatge8888.png)
 
-![Afegim el tercer disc a l'espai de reflex doble i entre, no surt la alerta i podem veure el nostre disc de reflex doble amb normalitat i sense problemes. ](img/Imatge0.png)
+![Afegim el tercer disc a l'espai de reflex doble i entrem, no surt la alerta i podem veure el nostre disc de reflex doble amb normalitat i sense problemes. ](img/Imatge99.png)
 
 - **Resiliència de Paritat (Parity): Explicant la seva eficiència d'espai en comparació amb el mirall. Cal usar els tres discos.**
 
@@ -80,13 +80,29 @@ I ja estaria creat.
 
 - **Resiliència de mirall triple. Afegir tant discos de 10 GB com siguin necessaris.**
 
-Creem grup, usant tant discos de 10 GB com siguin necessaris (5 discos).
+Creem grup, usant tant discos de 10 GB com siguin necessaris (5 discos). 
+Amb la màquina apagada, anem a paràmetres, emmagatzematge i hem de tenir/crear 5 discos de 10 GB (simulats) i guardem. Dins de la màquina anem administració d’equips, inicialitzem els discos, utilitzem l’estil de partició MBR.
 
-![Creem grup, usant tant discos de 10 GB com siguin necessaris (5 discos).](img/Imatge.png)
+![Creem grup, usant tant discos de 10 GB com siguin necessaris (5 discos). 
+Amb la màquina apagada, anem a paràmetres, emmagatzematge i hem de tenir/crear 5 discos de 10 GB (simulats) i guardem. Dins de la màquina anem administració d’equips, inicialitzem els discos, utilitzem l’estil de partició MBR.](img/Imatge12.png)
 
+Anem a espais d'emmagatzematge i creem.
 
+![Anem a espais d'emmagatzematge i creem.](img/Imatge13.png)
 
+Seguidament creem grup, usant els 5 discos.
 
+![Seguidament creem grup, usant els 5 discos.](img/Imatge14.png)
+
+Posem tipus de resistència en reflexe triple i de capacitat màxima 30,70 GB.
+
+![Posem tipus de resistència en reflexe triple i de capacitat màxima 30,70 GB.](img/Imatge15.png)
+
+I ja estaria creat.
+
+![Ja estaria creat.](img/Imatge16.png)
+
+![Ja estaria creat.](img/Imatge17.png)
 
 - **Demostració de la Gestió: Mostrar com es visualitza l'estat dels discos i del pool des de la consola de gestió de Windows, simulant la facilitat de manteniment.**
 
