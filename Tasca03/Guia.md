@@ -8,7 +8,7 @@
 - **Configuració inicial: Creació d'un Storage Pool: Crear un pool d'emmagatzematge inicialment amb tres discos de 10 GB (simulats).**
 
 Amb la màquina apagada, anem a paràmetres, emmagatzematge i creem 3 discos de GB (simulats) i guardem.
-![Màquina apagada, anem a paràmetres, emmagatzematge i creem 3 discos de GB (simulats) i guardem.](img/Imatge01.png)
+![Màquina apagada, anem a paràmetres, emmagatzematge i creem 3 discos de GB (simulats) i guardem.](img/Imatge1.png)
 
 Ara dins de la màquina anem administració d’equips, inicialitzem els discos, utilitzem l’estil de partició MBR.
 ![Dins de la màquina anem administració d’equips, inicialitzem els discos, utilitzem l’estil de partició MBR.](img/Imatge02.png)
