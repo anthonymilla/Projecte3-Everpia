@@ -49,7 +49,7 @@ Surt una alerta que s’ha perdut el mirall, però podem continuar llegint la in
 
 ![Surt una alerta que s’ha perdut el mirall, però podem continuar llegint la informació que havíem guardat.](img/Imatge0.png)
 
-Afegim el tercer disc a l'espai de reflex doble i entre, no surt la alerta i podem veure el nostre disc de reflex doble amb normalitat i sense problemes. 
+Afegim el tercer disc a l'espai de reflex doble i entrem, no surt la alerta i podem veure el nostre disc de reflex doble amb normalitat i sense problemes. 
 
 ![Afegim el tercer disc a l'espai de reflex doble i entre, no surt la alerta i podem veure el nostre disc de reflex doble amb normalitat i sense problemes. ](img/Imatge0.png)
 
