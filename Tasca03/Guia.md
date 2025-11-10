@@ -55,6 +55,8 @@ Afegim el tercer disc a l'espai de reflex doble i entrem, no surt la alerta i po
 
 ![Afegim el tercer disc a l'espai de reflex doble i entrem, no surt la alerta i podem veure el nostre disc de reflex doble amb normalitat i sense problemes. ](img/Imatge99.png)
 
+![Afegim el tercer disc a l'espai de reflex doble i entrem, no surt la alerta i podem veure el nostre disc de reflex doble amb normalitat i sense problemes. ](img/Imatge999.png)
+
 - **Resiliència de Paritat (Parity): Explicant la seva eficiència d'espai en comparació amb el mirall. Cal usar els tres discos.**
 
 Creem grup, usant els 3  discos.
