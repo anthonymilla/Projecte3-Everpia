@@ -33,9 +33,27 @@ I ja estaria creat.
 
 ![Resiliència de Mirall (Mirroring): Usant dos dels discos.](img/Imatge07.png)
 
-Comprovació que ofereix alta disponibilitat.
+I posem algun arxiu dins de l’espai per fer la prova de disponibilitat.
 
+![Posem algun arxiu dins de l’espai per fer la prova de disponibilitat.](img/Imatge0.png)
 
+Comprovació que ofereix alta disponibilitat. Desconnectem el disc 2.
+
+![Comprovació que ofereix alta disponibilitat. Desconnectem el disc 2.](img/Imatge0.png)
+
+![Comprovació que ofereix alta disponibilitat. Desconnectem el disc 2.](img/Imatge0.png)
+
+Surt una alerta que s’ha perdut el mirall, però podem continuar llegint la informació que havíem guardat.
+
+![Surt una alerta que s’ha perdut el mirall, però podem continuar llegint la informació que havíem guardat.](img/Imatge0.png)
+
+![Surt una alerta que s’ha perdut el mirall, però podem continuar llegint la informació que havíem guardat.](img/Imatge0.png)
+
+Afegim el tercer disc a l'espai de reflex doble i entre, no surt la alerta i podem veure el nostre disc de reflex doble amb normalitat i sense problemes. 
+
+![Afegim el tercer disc a l'espai de reflex doble i entre, no surt la alerta i podem veure el nostre disc de reflex doble amb normalitat i sense problemes. ](img/Imatge0.png)
+
+![Afegim el tercer disc a l'espai de reflex doble i entre, no surt la alerta i podem veure el nostre disc de reflex doble amb normalitat i sense problemes. ](img/Imatge0.png)
 
 - **Resiliència de Paritat (Parity): Explicant la seva eficiència d'espai en comparació amb el mirall. Cal usar els tres discos.**
 
