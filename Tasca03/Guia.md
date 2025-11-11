@@ -108,7 +108,9 @@ I ja estaria creat.
 
 - **Demostració de la Gestió: Mostrar com es visualitza l'estat dels discos i del pool des de la consola de gestió de Windows, simulant la facilitat de manteniment.**
 
+Mostrem com es visualitza l'estat dels discos i del pool des de la consola de gestió de Windows, per simular la facilitat de manteniment. Ho hem fet amb el mirall triple.
 
+![Mostrem com es visualitza l'estat dels discos i del pool des de la consola de gestió de Windows, per simular la facilitat de manteniment. Ho hem fet amb el mirall triple.](img/Imatge18.png)
 
 [Anar a l'enunciat](../Tasca03/README.md)  
 [Anar a la pàgina inicial](../README.md)
