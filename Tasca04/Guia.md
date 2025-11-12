@@ -194,6 +194,12 @@ I ja estarien creats els usuaris.
 
 ![I ja estarien creats els usuaris.](img/Imatge46.png)
 
+Posem contrasenya als 2 usuaris.
+
+![Posem contrasenya als 2 usuaris.](img/Imatge466.png)
+
+![Posem contrasenya als 2 usuaris.](img/Imatge467.png)
+
 | 4. Integració de Client (Client Ubuntu Desktop) |
 |----------------------------------------|
 
