@@ -311,8 +311,17 @@ Canvi:
 
 Reiniciem els serveis i verifiquem amb la següent comanda: getent passwd que els usuaris del directori són visibles localment.
 
+![Anem a l’arxiu /etc/pam.d/common-session, on afegim la següent línia per crear els perfils.](img/Imatge77.png)
 
+![Anem a l’arxiu /etc/pam.d/common-session, on afegim la següent línia per crear els perfils.](img/Imatge78.png)
 
+![Anem a l’arxiu /etc/pam.d/common-session, on afegim la següent línia per crear els perfils.](img/Imatge79.png)
+
+![Anem a l’arxiu /etc/pam.d/common-session, on afegim la següent línia per crear els perfils.](img/Imatge80.png)
+
+![Anem a l’arxiu /etc/pam.d/common-session, on afegim la següent línia per crear els perfils.](img/Imatge81.png)
+
+![Anem a l’arxiu /etc/pam.d/common-session, on afegim la següent línia per crear els perfils.](img/Imatge82.png)
 
 
 
