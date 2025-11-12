@@ -339,6 +339,31 @@ Per permetre l’inici de sessió gràfica, afegint la següent línea.
 
 ![Per permetre l’inici de sessió gràfica, afegint la següent línea.](img/Imatge83.png)
 
+Reiniciem el client i provem a iniciar sessió amb un dels usuaris del directori.
+
+Anem a afegir un usuari, en aquest cas mostraré el tech01
+
+![Anem a afegir un usuari, en aquest cas mostraré el tech01](img/Imatge84.png)
+
+Posem el nom ttech01
+
+![Posem el nom ttech01](img/Imatge85.png)
+
+I la contrasenya.
+
+![I la contrasenya.](img/Imatge86.png)
+
+I ens entra.
+
+![I ens entra.](img/Imatge87.png)
+
+Usuaris del directori.
+
+![Usuaris del directori.](img/Imatge88.png)
+
+Després d’iniciar sessió, comprovem que se li ha creat la carpeta personal i comprovem l’usuari.
+
+![Després d’iniciar sessió, comprovem que se li ha creat la carpeta personal i comprovem l’usuari.](img/Imatge89.png)
 
 
 [Anar a l'enunciat](../Tasca04/README.md)  
