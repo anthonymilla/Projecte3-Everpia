@@ -311,18 +311,27 @@ Canvi:
 
 Reiniciem els serveis i verifiquem amb la següent comanda: getent passwd que els usuaris del directori són visibles localment.
 
-![Anem a l’arxiu /etc/pam.d/common-session, on afegim la següent línia per crear els perfils.](img/Imatge77.png)
+Reiniciem el servei.
 
-![Anem a l’arxiu /etc/pam.d/common-session, on afegim la següent línia per crear els perfils.](img/Imatge78.png)
+![Reiniciem el servei.](img/Imatge77.png)
 
-![Anem a l’arxiu /etc/pam.d/common-session, on afegim la següent línia per crear els perfils.](img/Imatge79.png)
+![Reiniciem el servei.](img/Imatge78.png)
 
-![Anem a l’arxiu /etc/pam.d/common-session, on afegim la següent línia per crear els perfils.](img/Imatge80.png)
+Comprovem que veu els usuaris LDAP.
 
-![Anem a l’arxiu /etc/pam.d/common-session, on afegim la següent línia per crear els perfils.](img/Imatge81.png)
+![Comprovem que veu els usuaris LDAP.](img/Imatge79.png)
 
-![Anem a l’arxiu /etc/pam.d/common-session, on afegim la següent línia per crear els perfils.](img/Imatge82.png)
+![Comprovem que veu els usuaris LDAP.](img/Imatge80.png)
 
+Editem aquest arxiu amb la següent comanda:
+
+![Editem aquest arxiu amb la següent comanda:](img/Imatge81.png)
+
+Per permetre l’inici de sessió gràfica, afegint la següent línea.
+
+![Per permetre l’inici de sessió gràfica, afegint la següent línea.](img/Imatge82.png)
+
+![Per permetre l’inici de sessió gràfica, afegint la següent línea.](img/Imatge83.png)
 
 
 
