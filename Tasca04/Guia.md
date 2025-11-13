@@ -91,7 +91,7 @@ Fem la comprovació de que s’ha modificat la informació del directori.
 
 ![Fem la comprovació de que s’ha modificat la informació del directori.](img/Imatge20.png)
 
-Posem la següent comanda i creem dues OUs: users i groups mitjançant un fitxer .ldif.
+Posem la següent comanda i creem dues OUs: users i groups mitjançant un fitxer .ldif
 
 ![Posem la següent comanda i creem dues OUs: users i groups mitjançant un fitxer .ldif.](img/Imatge21.png)
 
