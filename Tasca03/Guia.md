@@ -84,6 +84,8 @@ I ja estaria creat.
 **Conclusió:** La paritat és més eficient en espai que el mirall, però pot ser una mica més lenta en rendiment.
 
 
+ 
+
 - **Resiliència de mirall triple. Afegir tant discos de 10 GB com siguin necessaris.**
 
 Creem grup, usant tant discos de 10 GB com siguin necessaris (5 discos). 
