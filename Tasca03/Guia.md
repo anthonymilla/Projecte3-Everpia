@@ -33,7 +33,7 @@ I ja estaria creat.
 
 ![Resiliència de Mirall (Mirroring): Usant dos dels discos.](img/Imatge07.png)
 
-I posem algun arxiu dins de l’espai per fer la prova de disponibilitat.
+I posem algun arxiu (carpeta amb un arxiu a dins, un document de text per exemple) dins de l’espai per fer la prova de disponibilitat.
 
 ![Posem algun arxiu dins de l’espai per fer la prova de disponibilitat.](img/Imatge77.png)
 
@@ -42,6 +42,10 @@ Comprovació que ofereix alta disponibilitat. Desconnectem el disc 2.
 ![Comprovació que ofereix alta disponibilitat. Desconnectem el disc 2.](img/Imatge777.png)
 
 ![Comprovació que ofereix alta disponibilitat. Desconnectem el disc 2.](img/Imatge7777.png)
+
+Surt una alerta que s’ha perdut el mirall.
+
+![Surt una alerta que s’ha perdut el mirall.](img/Imatge19.png)
 
 Surt una alerta que s’ha perdut el mirall, però podem continuar llegint la informació que havíem guardat.
 
