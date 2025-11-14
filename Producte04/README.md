@@ -45,4 +45,6 @@ Procediu a pujar els diversos arxius, tenint en compte que haureu de crear la ca
 
 Podeu usar el procediment que es va explicar: crear un arxiu que anomenareu `zones/esborrar`, i un cop pujats els arxius, procediu a esborrar aquest arxiu.
 
+[Anar a la primera solució](../Tasca01/Informe.md)                                        
+[Anar a la carpeta zones](../Producte04/Zones)    
 [Anar a la pàgina inicial](../README.md)
