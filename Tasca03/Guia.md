@@ -171,13 +171,13 @@ Escalabilitat: Demostrar el procés d'ampliació. Usar l’espai que quedi lliur
 
 ![](img/29.png)
 
-##3. Part Windows: Espais d'Emmagatzematge (Storage Spaces)
+## 3. Part Windows: Espais d'Emmagatzematge (Storage Spaces)
 
-S'ha d'utilitzar Windows 11 (per demostrar les configuracions possibles mitjançant els Espais d'Emmagatzematge (Storage Spaces).
+**S'ha d'utilitzar Windows 11 (per demostrar les configuracions possibles mitjançant els Espais d'Emmagatzematge (Storage Spaces).**
 
-Requisits de la Implementació i Demostració:
+**Requisits de la Implementació i Demostració:**
 
-3.1.Configuració inicial: Creació d'un Storage Pool: Crear un pool d'emmagatzematge inicialment amb tres discos de 10 GB (simulats).
+**3.1.Configuració inicial: Creació d'un Storage Pool: Crear un pool d'emmagatzematge inicialment amb tres discos de 10 GB (simulats).**
 
 Amb la màquina apagada, anem a paràmetres, emmagatzematge i creem 3 discos de 10 GB (simulats) i guardem.
 
@@ -187,9 +187,9 @@ Ara dins de la màquina anem administració d’equips, inicialitzem els discos,
 
 ![](img/31.png)
 
-3.2. Estudi de Configuracions: Demostrar i documentar la creació d'un Espai d'Emmagatzematge utilitzant:
+**3.2. Estudi de Configuracions: Demostrar i documentar la creació d'un Espai d'Emmagatzematge utilitzant:**
 
-Resiliència de Mirall (Mirroring): Usar dos dels discos. Comprovar que ofereix alta disponibilitat.
+**Resiliència de Mirall (Mirroring): Usar dos dels discos. Comprovar que ofereix alta disponibilitat.**
 
 Anem a espais d'emmagatzematge i creem.
 
@@ -237,7 +237,7 @@ Afegim el tercer disc a l'espai de reflex doble i entrem, no surt la alerta i po
 
 ![](img/45.png)
 
-Resiliència de Paritat (Parity): Explicant la seva eficiència d'espai en comparació amb el mirall. Cal usar els tres discos.
+**Resiliència de Paritat (Parity): Explicant la seva eficiència d'espai en comparació amb el mirall. Cal usar els tres discos.**
 
 Creem grup, usant els 3 discos.
 
@@ -253,15 +253,15 @@ I ja estaria creat.
 
 ![](img/49.png)
 
-Eficiència d'espai: Paritat vs Mirall
+**Eficiència d'espai: Paritat vs Mirall**
 
-Mirall (2 discos): Guarda una còpia exacta de les dades en cada disc. Si tens 2 discos de 10 GB, només pots usar 10 GB per dades. L'altre 10 GB és per la còpia.  50% d'eficiència d'espai.
+**Mirall (2 discos):** Guarda una còpia exacta de les dades en cada disc. Si tens 2 discos de 10 GB, només pots usar 10 GB per dades. L'altre 10 GB és per la còpia.  50% d'eficiència d'espai.
 
-Paritat (3 discos): Distribueix les dades i la informació de recuperació entre els discos. Amb 3 discos de 10 GB, pots usar 20 GB per dades i 10 GB per paritat.  ≈66% d'eficiència d'espai.
+**Paritat (3 discos):** Distribueix les dades i la informació de recuperació entre els discos. Amb 3 discos de 10 GB, pots usar 20 GB per dades i 10 GB per paritat.  ≈66% d'eficiència d'espai.
 
-Conclusió: La paritat és més eficient en espai que el mirall, però pot ser una mica més lenta en rendiment.
+**Conclusió:** La paritat és més eficient en espai que el mirall, però pot ser una mica més lenta en rendiment.
 
-Resiliència de mirall triple. Afegir tant discos de 10 GB com siguin necessaris.
+**Resiliència de mirall triple. Afegir tant discos de 10 GB com siguin necessaris.**
 
 Creem grup, usant tant discos de 10 GB com siguin necessaris (5 discos). 
 Amb la màquina apagada, anem a paràmetres, emmagatzematge i hem de tenir/crear 5 discos de 10 GB (simulats) i guardem. Dins de la màquina anem administració d’equips, inicialitzem els discos, utilitzem l’estil de partició MBR.
@@ -286,7 +286,7 @@ I ja estaria creat.
 
 ![](img/55.png)
 
-3.3. Demostració de la Gestió: Mostrar com es visualitza l'estat dels discos i del pool des de la consola de gestió de Windows, simulant la facilitat de manteniment.
+**3.3. Demostració de la Gestió: Mostrar com es visualitza l'estat dels discos i del pool des de la consola de gestió de Windows, simulant la facilitat de manteniment.**
 
 Mostrem com es visualitza l'estat dels discos i del pool des de la consola de gestió de Windows, per simular la facilitat de manteniment. Ho hem fet amb el mirall triple.
 
