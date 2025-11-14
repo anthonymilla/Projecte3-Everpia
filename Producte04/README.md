@@ -45,6 +45,6 @@ Procediu a pujar els diversos arxius, tenint en compte que haureu de crear la ca
 
 Podeu usar el procediment que es va explicar: crear un arxiu que anomenareu `zones/esborrar`, i un cop pujats els arxius, procediu a esborrar aquest arxiu.
 
-[Anar a named.conf.local](../Tasca01/Informe.md)                                        
+[Anar a named.conf.local](../Producte04/named.conf.local)                                        
 [Anar a named.conf.options](../Producte04/zones)    
 [Anar a la pàgina inicial](../README.md)
