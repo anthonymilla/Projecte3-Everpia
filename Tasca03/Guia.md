@@ -1,6 +1,6 @@
 ![](img/00.png)
 
-Jhon Justiniano-Nil Lozano-Anthony Milla-Hugo Muiños / SMX-B / Seguretat Informàtica
+**Jhon Justiniano-Nil Lozano-Anthony Milla-Hugo Muiños / SMX-B / Seguretat Informàtica**
 
 ---
 
@@ -20,7 +20,7 @@ Jhon Justiniano-Nil Lozano-Anthony Milla-Hugo Muiños / SMX-B / Seguretat Inform
 
 ---
 ## 1. Introducció:
-Un cop superada la fase de formació, ja esteu preparats per afrontar el repte dels nostres clients. Com ja es va explicar, tenim un nou i important client, el bufet d’advocats Garriga i associats un dels més prestigiosos de la ciutat, ha requerit els serveis de la nostra consultora. Gestiona una gran quantitat d'informació legal sensible, per la qual cosa la integritat, la disponibilitat (alta redundància) i la facilitat de gestió del seu emmagatzematge són d'importància crítica.
+Un cop superada la fase de formació, ja esteu preparats per afrontar el repte dels nostres clients. Com ja es va explicar, tenim un nou i important client, el bufet d’advocats **Garriga i associats** un dels més prestigiosos de la ciutat, ha requerit els serveis de la nostra consultora. Gestiona una gran quantitat d'informació legal sensible, per la qual cosa la integritat, la disponibilitat (alta redundància) i la facilitat de gestió del seu emmagatzematge són d'importància crítica.
 
 La direcció de "Garriga i Associats" ha expressat la necessitat urgent de renovar els seus sistemes de servidors per garantir que la informació estigui protegida contra fallades de disc i que l'espai pugui ser ampliat sense interrupcions.
 
@@ -33,11 +33,11 @@ L'objectiu principal és dissenyar i documentar dues solucions d'emmagatzematge 
 S'ha d'utilitzar la distribució Zorin OS (o una alternativa Linux compatible) per demostrar la utilitat del Logical Volume Manager (LVM).
 Requisits de la Implementació i Demostració:
 
-2.1. Configuració Inicial: Crear un grup de volums (VG) i un volum lògic (LV) utilitzant inicialment un mínim de dos discs durs (simulats) de 10 GB de capacitat. Aquest volum haurà estar formatat i muntat automàticament al sistema mitjançant l’edició de l’arxiu /etc/fstab.
+**2.1. Configuració Inicial: Crear un grup de volums (VG) i un volum lògic (LV) utilitzant inicialment un mínim de dos discs durs (simulats) de 10 GB de capacitat. Aquest volum haurà estar formatat i muntat automàticament al sistema mitjançant l’edició de l’arxiu /etc/fstab.**
 
 
 ---
-Configuració Inicial: Crear un grup de volums (VG) i un volum lògic (LV) utilitzant inicialment un mínim de dos discs durs (simulats) de 10 GB de capacitat. Aquest volum haurà estar formatat i muntat automàticament al sistema mitjançant l’edició de l’arxiu /etc/fstab.
+**Configuració Inicial:** Crear un grup de volums (VG) i un volum lògic (LV) utilitzant inicialment un mínim de dos discs durs (simulats) de 10 GB de capacitat. Aquest volum haurà estar formatat i muntat automàticament al sistema mitjançant l’edició de l’arxiu /etc/fstab.
 
 1- Creamos la máquina donde le asignaremos el nombre correspondiente
 
