@@ -25,7 +25,7 @@ zone "waytoit.test" {
 
 zone "digicore-14.test" {
 	type slave;
-	file "digicore-19.test";
+	file "digicore-14.test";
 	masters {192.168.4.14;};
 };
 
