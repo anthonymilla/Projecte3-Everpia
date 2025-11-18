@@ -291,3 +291,6 @@ I ja estaria creat.
 Mostrem com es visualitza l'estat dels discos i del pool des de la consola de gestió de Windows, per simular la facilitat de manteniment. Ho hem fet amb el mirall triple.
 
 ![](img/56.png)
+
+[Anar a l'enunciat](../Tasca03/README.md)  
+[Anar a la pàgina inicial](../README.md)
